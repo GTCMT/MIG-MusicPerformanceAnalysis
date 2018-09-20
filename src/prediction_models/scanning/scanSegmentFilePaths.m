@@ -21,7 +21,7 @@ elseif ispc
     slashtype='\';
 end
 % //initialization
-annPath = [root_path '..' slashtype '..' slashtype 'FBA' YEAR_OPTION];
+annPath = [root_path '..' slashtype '..' slashtype '..' slashtype 'MIG-FbaData' slashtype 'FBA' YEAR_OPTION];
 N = length(student_ids);
 
 

@@ -20,7 +20,7 @@ elseif ispc
     slashtype='\';
 end
     % //initialization 
-annPath = [root_path '..' slashtype '..' slashtype 'FBA' year_option];
+annPath = [root_path '..' slashtype '..' slashtype '..' slashtype 'MIG-FbaData' slashtype 'FBA' year_option];
 N = length(student_ids);
 segments = cell(N, 1);
 

@@ -2,7 +2,7 @@
 % script to compute and save pYin features for middle school
 % AltoSaxophone segment 2 recordings
 
-band = 'middle';
+band = 'symphonic';
 inst = 'Alto Saxophone';
 segment = 2;
 num_nonscore = 24;

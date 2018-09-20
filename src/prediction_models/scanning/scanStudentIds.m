@@ -40,7 +40,7 @@ elseif ispc
 end
 
 % path to excel file:
-xls_path = ['..' slashtype '..' slashtype 'FBA' year_option];
+xls_path = ['..' slashtype '..' slashtype '..' slashtype 'MIG-FbaData' slashtype 'FBA' year_option];
 
 switch band_option
     case 'middle'

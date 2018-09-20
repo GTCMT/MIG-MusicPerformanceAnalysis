@@ -78,13 +78,11 @@ end
 result_test_pyin = zeros(NUM_FOLDS, 4); % 4 for the number of test parameters
 result_test_acf = zeros(NUM_FOLDS, 4);
 
-%{
 % get fold indices for the different folds
 foldidx = cell(num_years,1);
 for i = 1:num_years
     foldidx{i} = crossvalind('Kfold', length(label_vect{i}), NUM_FOLDS);
 end
-%}
 
 % iterate over different test years
 for feature_type = 1:2

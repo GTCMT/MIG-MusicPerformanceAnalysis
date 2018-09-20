@@ -24,7 +24,7 @@ elseif ispc
 end
 
 root_path = deriveRootPath();
-annotation_path = [root_path '..' slashtype '..' slashtype 'FBA' year_option];
+annotation_path = [root_path '..' slashtype '..' slashtype '..' slashtype 'MIG-FbaData' slashtype 'FBA' year_option];
 num_chosen_segments = size(segment_option, 1);
 num_students = length(student_ids);
 assessments = cell(num_students,1);
