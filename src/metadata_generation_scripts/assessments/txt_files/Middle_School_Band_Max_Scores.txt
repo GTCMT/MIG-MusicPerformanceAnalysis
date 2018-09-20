@@ -1,0 +1,49 @@
+Lyrical Etude	Musicality, Tempo & Style	20
+Lyrical Etude	Tone Quality	15
+Lyrical Etude	Note Accuracy	10
+Lyrical Etude	Rhythmic Accuracy	10
+Lyrical Etude	Artistry	5
+Mallet Etude	Musicality, Tempo & Style	20
+Mallet Etude	Note Accuracy	10
+Mallet Etude	Rhythmic Accuracy	10
+Reading-Mallet	Note Accuracy & Tone	10
+Reading-Mallet	Rhythmic Accuracy & Articulation	10
+Reading-Mallet	Musicality & Style	15
+Reading-Snare	Note Accuracy & Tone	10
+Reading-Snare	Rhythmic Accuracy & Articulation	10
+Reading-Snare	Musicality & Style	15
+Reading-Timpani	Note Accuracy	10
+Reading-Timpani	Rhythmic Accuracy & Articulation	10
+Reading-Timpani	Musicality & Style	15
+Scales	Chromatic	15
+Scales	Note Accuracy	40
+Scales	Tempo & Consistency	40
+Scales	Musicality, Phrasing & Style	20
+Scales	Chromatic	15
+Scales	G	8
+Scales	C	8
+Scales	F	8
+Scales	Bb	8
+Scales	Eb	8
+Scales	Ab	8
+Scales	Db	8
+Scales	Note Accuracy/Consistency	30
+Scales	Tone Quality	15
+Scales	Musicality, Tempo, & Style	10
+Scales	Articulation & Style	10
+Sight-Reading	Note Accuracy	10
+Sight-Reading	Rhythmic Accuracy	10
+Sight-Reading	Musicality, Tempo & Style	10
+Sight-Reading	Tone Quality	5
+Sight-Reading	Artistry	5
+Snare Etude	Musicality, Tempo & Style	20
+Snare Etude	Note Accuracy	10
+Snare Etude	Rhythmic Accuracy	10
+Technical Etude	Musicality, Tempo & Style	20
+Technical Etude	Tone Quality	15
+Technical Etude	Note Accuracy	10
+Technical Etude	Rhythmic Accuracy	10
+Technical Etude	Articulation	5
+Timpani Etude	Musicality, Tempo, & Style	20
+Timpani Etude	Note Accuracy	10
+Timpani Etude	Rhythmic Accuracy	10
