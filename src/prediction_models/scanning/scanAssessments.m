@@ -29,56 +29,45 @@ num_chosen_segments = size(segment_option, 1);
 num_students = length(student_ids);
 assessments = cell(num_students,1);
 
-for (student_idx = 1:num_students)
-  % Create file path.
-  current_id = num2str(student_ids(student_idx));
-  
-  % Search all bands for student.
-  found_student = false;
-  for (band_idx = 1:3)
-      if year_option == '2013'
-        switch (band_idx)
-          case 1 
-            band_folder = [slashtype 'concertbandscores'];
-          case 2
-            band_folder = [slashtype 'middleschoolscores'];
-          case 3
-            band_folder = [slashtype 'symphonicbandscores'];
-        end
-      else
-         switch (band_idx)
-          case 1 
-            band_folder = [slashtype 'concertband'];
-          case 2
-            band_folder = [slashtype 'middleschool'];
-          case 3
-            band_folder = [slashtype 'symphonicband'];
-        end 
-      end
+for student_idx = 1:num_students
+    % Create file path.
+    current_id = num2str(student_ids(student_idx));
     
-    file_name = [slashtype current_id '_' 'assessments.txt']; 
-    file_path = [annotation_path band_folder slashtype current_id file_name];
-
-    % Read assessment file.
-    if (exist(file_path, 'file') == 2)
-      all_current_assessments = dlmread(file_path, '\t', ...
-                                    [1 0 NUM_SEGMENTS NUM_CATEGORIES-1]);
-      current_assessments = zeros(num_chosen_segments, NUM_CATEGORIES);
-      for(segment_idx = 1:num_chosen_segments)
-        current_segment = segment_option(segment_idx);
-        current_assessments(segment_idx, :) = ...
-            all_current_assessments(current_segment, :);
-      end
-      
-      assessments{student_idx} = current_assessments;
-      found_student = true;
-      continue;
+    % Search all bands for student.
+    found_student = false;
+    for band_idx = 1:3
+        switch band_idx
+            case 1
+                band_folder = [slashtype 'concertband/assessments'];
+            case 2
+                band_folder = [slashtype 'middleschool/assessments'];
+            case 3
+                band_folder = [slashtype 'symphonicband/assessments'];
+        end
+        
+        file_name = [slashtype current_id '_' 'assessments.txt'];
+        file_path = [annotation_path band_folder slashtype current_id file_name];
+        
+        % Read assessment file.
+        if (exist(file_path, 'file') == 2)
+            all_current_assessments = dlmread(file_path, '\t', ...
+                [1 0 NUM_SEGMENTS NUM_CATEGORIES-1]);
+            current_assessments = zeros(num_chosen_segments, NUM_CATEGORIES);
+            for segment_idx = 1:num_chosen_segments
+                current_segment = segment_option(segment_idx);
+                current_assessments(segment_idx, :) = ...
+                    all_current_assessments(current_segment, :);
+            end
+            
+            assessments{student_idx} = current_assessments;
+            found_student = true;
+            continue;
+        end
     end
-  end
-  
-  if (~found_student)
-    warning(['Could not find student with id: ' num2str(current_id) '.']);
-  end
-  
+    
+    if (~found_student)
+        warning(['Could not find student with id: ' num2str(current_id) '.']);
+    end
+    
 end
 end

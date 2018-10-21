@@ -44,11 +44,11 @@ xls_path = ['..' slashtype '..' slashtype '..' slashtype 'MIG-FbaData' slashtype
 
 switch band_option
     case 'middle'
-        file_name = 'Middle School';
+        file_name = 'middleschool/excelmiddleschool';
     case 'concert'
-        file_name = 'Concert Band Scores';
+        file_name = 'concertband/excelconcertband';
     case 'symphonic'
-        file_name = 'Symphonic Band Scores';
+        file_name = 'symphonicband/excelsymphonicband';
     otherwise
         disp(['Invalid band option. Options: ' char(39) 'middle' char(39) ', ' char(39) 'concert' char(39) ' or ' char(39) 'symphonic' char(39) '.']);
         return;

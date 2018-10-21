@@ -121,7 +121,7 @@ end
 
 % Thin notes: coalesce spurious notes at boundaries.
 if thinning == true
-notes = noteThinning(notes, min_note_windows);
+    notes = noteThinning(notes, min_note_windows);
 end
 
 % Remove notes below a power threshold.

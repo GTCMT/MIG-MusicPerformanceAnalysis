@@ -19,36 +19,24 @@ elseif ispc
     % Code to run on Windows platform
     slashtype='\';
 end
-    % //initialization 
+% //initialization
 annPath = [root_path '..' slashtype '..' slashtype '..' slashtype 'MIG-FbaData' slashtype 'FBA' year_option];
 N = length(student_ids);
 segments = cell(N, 1);
 
 for i = 1:3
-    if year_option == '2013'
-        switch i
-            case 1
-                bandFolder = [slashtype 'concertbandscores'];
-            case 2
-                bandFolder = [slashtype 'middleschoolscores'];
-            case 3
-                bandFolder = [slashtype 'symphonicbandscores'];
-        end
-    else
-        switch i
-            case 1
-                bandFolder = [slashtype 'concertband'];
-            case 2
-                bandFolder = [slashtype 'middleschool'];
-            case 3
-                bandFolder = [slashtype 'symphonicband'];
-        end
-    end
-    
+    switch i
+        case 1
+            bandFolder = [slashtype 'concertband/assessments'];
+        case 2
+            bandFolder = [slashtype 'middleschool/assessments'];
+        case 3
+            bandFolder = [slashtype 'symphonicband/assessments'];
+    end    
     for j = 1:N
         % //create file path
         current_id = num2str(student_ids(j));
-        file_name  = strcat(slashtype, current_id, '_', 'segment.txt'); 
+        file_name  = strcat(slashtype, current_id, '_', 'segment.txt');
         filePath   = strcat(annPath, bandFolder, slashtype, current_id, file_name);
         
         % //read segment file
@@ -57,8 +45,8 @@ for i = 1:3
             segments{j,1} = [start(segment_option), duration(segment_option)];
         else
         end
-       
-    end 
+        
+    end
 end
 
- 
+

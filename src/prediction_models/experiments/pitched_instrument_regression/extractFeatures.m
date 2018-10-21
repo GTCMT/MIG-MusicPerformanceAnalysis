@@ -22,7 +22,7 @@ function [features] = extractFeatures(audio, Fs, wSize, hop)
     thresh2=0.4;
     
     [f0, ~] = estimatePitch(audio, Fs, hop, wSize, algo);
-    note = noteSegmentation(audio, f0, Fs, hop, 50, 0.2 , -50);
+    note = noteSegmentation(audio, f0, Fs, hop, 50, 0.2 , -50, false);
 
     % feature over entire segment
     features(1,1) = PlayingNotes100CntsHist(f0);
