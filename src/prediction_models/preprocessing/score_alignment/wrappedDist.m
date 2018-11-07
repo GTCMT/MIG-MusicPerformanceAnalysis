@@ -9,6 +9,7 @@ for i = 1:numel(midi)
     for j = 1:numel(pitchcontour)
         diff = abs(midi(i) - pitchcontour(j));
         D(i,j) = mod(diff, N);
+        D(i,j) = min(D(i,j), 12-D(i,j));
     end
 end
 
