@@ -27,7 +27,7 @@ function features = extractFeaturesPitchedInstruments(audio, Fs, hop_size)
 
   notes = noteSegmentation(audio, pitches, Fs, hop_size, ...
                            INTERVAL_THRESHOLD_CENTS, ...
-                           DURATION_THRESHOLD_SEC, POWER_THRESHOLD_DB);
+                           DURATION_THRESHOLD_SEC, POWER_THRESHOLD_DB, 'false');
   
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   % Aggregate instantaneous features into note-level features.

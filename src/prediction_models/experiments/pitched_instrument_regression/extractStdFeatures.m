@@ -57,7 +57,7 @@ function [features] = extractStdFeatures(audio, Fs, wSize, hop)
     
     algo='acf';
     [f0, ~] = estimatePitch(audio, Fs, hop, wSize, algo);    
-    note = noteSegmentation(audio, f0, Fs, hop, 50, 0.2 , -50);
+    note = noteSegmentation(audio, f0, Fs, hop, 50, 0.2 , -50, 'false');
     
     % features are extracted at each note level
     vmfcc_mn = zeros(size(note, 1), 13);
