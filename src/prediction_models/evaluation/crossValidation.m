@@ -22,7 +22,7 @@ folds = cvpartition(labels, 'KFold', n_fold);
 
 % Evaluate one fold at a time.
 %data_start_idx = 1;
-for (fold = 1:n_fold)
+for fold = 1:n_fold
   % Grab the test data.
   test_indices = folds.test(fold);
   test_labels = labels(test_indices, :);

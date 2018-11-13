@@ -11,11 +11,11 @@
 dataFolder = 'dataPyin';
 dataFolder2 = 'data';
 % specify label
-l = 4; % 1: musicality, 2: note accuracy, 3: rhythmic accuracy, 4: tone quality
+l = 2; % 1: musicality, 2: note accuracy, 3: rhythmic accuracy, 4: tone quality
 % specify feature type
 feature_type = 'Combined'; % options are 'Score', 'NonScore', 'Combined'
 % specify number of folds
-NUM_FOLDS = 10;
+NUM_FOLDS = 3;
 
 %% define file paths and read feature data
 if ismac
@@ -85,7 +85,7 @@ for i = 1:num_years
 end
 
 % iterate over different test years
-for feature_type = 1:2
+for feature_type = 1%:2
     for i = 1:NUM_FOLDS
         %% Test for pYin features
         % initialize training and testing features and labels
