@@ -4,7 +4,7 @@
 % objective: Cross validate a regression model on a training set.
 %
 % labels: Mx1 vector of data labels.
-% features: Mx1 vector of data fearures.
+% features: Mx1 vector of data features.
 % n_fold: int, number of folds.
 % Rsq: R squared value.
 % S: standard error of estimate.
