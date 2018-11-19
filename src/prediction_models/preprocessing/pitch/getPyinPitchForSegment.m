@@ -13,7 +13,7 @@ function f0 = getPyinPitchForSegment(path_to_pyin_output, segment_info)
 %% Read the pyin output file 
 curr_folder = pwd;
 cd (path_to_pyin_output);
-filename = dir('*.txt');
+filename = dir('*_pyin_pitchtrack.txt');
 if isempty(filename)
     % TODO: convert this to a warning and compute pYin if needed
     error('pYin output has not been computed yet')

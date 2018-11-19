@@ -11,6 +11,8 @@ function [vsk] = FeatureSpectralKurtosis (X, f_s)
 
     if isempty(f_s)
         use_book_definition = true;
+    else
+        use_book_definition = false;
     end
         
     if (use_book_definition)

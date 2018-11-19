@@ -22,6 +22,7 @@
 %                For segment and category indices, see /FBA/README.txt.
 %                Segments returned in order specified by segment_option.
 %   score: TODO(Yujia)
+%   pyin_path: string, the path to pyin pitch contour for a student
 %
 % file_paths, segments, and assessments have the same index for a given
 % student.
@@ -42,6 +43,7 @@ assessments = scanAssessments(segment_option_remapped, student_ids, year_option)
 % TODO(Yujia)
 % score = scanScore(instrument_option, score_option);
 score = [];
+pyin_paths = scanPyinPaths(student_ids, band_option, year_option);
 
 % Create the struct.
 audition_metadata = struct();
@@ -49,4 +51,5 @@ audition_metadata.file_paths = file_paths;
 audition_metadata.segments = segments;
 audition_metadata.assessments = assessments;
 audition_metadata.score = score;
+audition_metadata.pyin_paths = pyin_paths;
 end
