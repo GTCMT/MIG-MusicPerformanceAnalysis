@@ -21,7 +21,7 @@ function [vtpr] = FeatureSpectralTonalPowerRatio(X, f_s, G_T)
     X       = X.^2;
     fSum    = sum(X,1);
  
-    for (n = 1:size(X,2))
+    for n = 1:size(X,2)
         if (fSum == 0)
             % do nothing for 0-blocks
             continue;

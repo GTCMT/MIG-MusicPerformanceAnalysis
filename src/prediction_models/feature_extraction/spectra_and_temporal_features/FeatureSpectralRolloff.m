@@ -19,10 +19,12 @@ function [vsr] = FeatureSpectralRolloff (X, f_s, kappa)
   
     %compute rolloff
     afSum   = sum(X,1);
-    for (n = 1:length(vsr))
+    for n = 1:length(vsr)
         vsr(n)  = find(cumsum(X(:,n)) >= kappa*afSum(n), 1); 
     end
     
     % convert from index to Hz
-    vsr     = vsr / size(X,1) * f_s/2;
+    if ~isempty(f_s)
+        vsr     = vsr / size(X,1) * f_s/2;
+    end
 end

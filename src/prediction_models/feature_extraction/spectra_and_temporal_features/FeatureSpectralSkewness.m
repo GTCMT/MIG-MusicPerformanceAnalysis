@@ -9,9 +9,11 @@
 % ======================================================================
 function [vssk] = FeatureSpectralSkewness (X, f_s)
 
-    UseBookDefinition = true;
+    if isempty(f_s)
+        use_book_definition = true;
+    end
     
-    if (UseBookDefinition)
+    if (use_book_definition)
         % compute mean and standard deviation
         mu_x    = mean(abs(X), 1);
         std_x   = std(abs(X), 1);
@@ -28,8 +30,10 @@ function [vssk] = FeatureSpectralSkewness (X, f_s)
         var_X   = diag (tmp.^2 * X) ./ (sum(X,1)'*size(X,1));
         
         vssk    = diag (tmp.^3 * X) ./ (var_X.^(3/2) .* sum(X,1)'*size(X,1));
+        % avoid NaN for silence frames
+        vssk (sum(X,1) == 0) = 0;
     end
        
     % avoid NaN for silence frames
-    vssk (sum(X,1) == 0) = 0;
+    %vssk (sum(X,1) == 0) = 0;
 end
