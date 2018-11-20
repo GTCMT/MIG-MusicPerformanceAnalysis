@@ -31,7 +31,8 @@ timeStep = hop/Fs;
 
 % get the score to pass to the feature extraction function
 root_path = deriveRootPath();
-scorePath = [root_path '..' slashtype '..' slashtype 'FBA' YEAR_OPTION slashtype 'midiscores' slashtype 'Alto Sax' slashtype 'Middle School' slashtype 'mid_alto_tech_' YEAR_OPTION '.mid'];
+BAND_OPTION = 'middleschool'; % NEED TO ADD THIS AS FUNCTION PARAMETER LATER
+scorePath = [root_path '..' slashtype '..' slashtype '..' slashtype 'MIG-FbaData' slashtype 'FBA' YEAR_OPTION slashtype BAND_OPTION slashtype 'musicalscores' slashtype 'altosax' slashtype 'mid_alto_tech_' YEAR_OPTION '.mid'];
 scoreMid = readmidi(scorePath);
 [rwSc, clSc] = size(scoreMid);
 
