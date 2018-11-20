@@ -52,4 +52,5 @@ audition_metadata.segments = segments;
 audition_metadata.assessments = assessments;
 audition_metadata.score = score;
 audition_metadata.pyin_paths = pyin_paths;
+audition_metadata.student_ids = student_ids;
 end

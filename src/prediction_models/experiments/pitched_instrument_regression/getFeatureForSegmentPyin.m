@@ -63,12 +63,17 @@ disp('Done scanning database.');
 assessments = audition_metadata.assessments{1};
 assessments = assessments(1, :);
 assessments = assessments(assessments ~= -1);
-num_labels = size(assessments, 2);
+if SEGMENT_OPTION == 2 % TODO: check if this applies for lyrical exercise also
+    num_labels = 4;
+else
+    num_labels = size(assessments, 2);
+end
 num_students = size(audition_metadata.file_paths, 1);
 
 % Preallocate memory.
 features = zeros(num_students, NUM_FEATURES);
 labels = zeros(num_students, num_labels);
+student_ids = audition_metadata.student_ids;
 
 disp('Extracting features...');
 
@@ -79,7 +84,6 @@ for student_idx = 1:num_students
     path = audition_metadata.pyin_paths{student_idx};
     segments = audition_metadata.segments{student_idx};
     student_assessments = audition_metadata.assessments{student_idx};
-    
     % Retrieve audio for each segment.
     [segmented_audio, Fs] = scanAudioIntoSegments(file_name, segments);
     current_audio = segmented_audio{1};
@@ -100,15 +104,22 @@ for student_idx = 1:num_students
     f0_features = extractF0Features(normalized_audio, f0, resample_fs, HOP_SIZE);
     features(student_idx, :) = f0_features;
     
-    % Store all assessments.
-    segment_assessments = student_assessments(1, :);
-    segment_assessments = segment_assessments(segment_assessments ~= -1);
+    %% Store all assessments.
+    segment_assessments = student_assessments(student_assessments ~= -1);
+    if SEGMENT_OPTION == 2 % TODO: check if this applies for lyrical exercise also
+        % we are not considering ARTISTRY LABEL for tecnical exercise 
+        % for 2013 and 2014
+        if or(strcmp(YEAR_OPTION, '2013') == 1, strcmp(YEAR_OPTION, '2014') == 1)
+            assert(size(segment_assessments, 2) == 5)
+            segment_assessments(:,1) = [];
+        end
+    end
     labels(student_idx, :) = segment_assessments;
 end
 
 % Write results to the file.
 disp('Done extracting features. Writing results to file.');
-save([full_data_path write_file_name], 'features', 'labels');
+save([full_data_path write_file_name], 'features', 'labels', 'student_ids');
 disp('Done writing file.');
 
 end
