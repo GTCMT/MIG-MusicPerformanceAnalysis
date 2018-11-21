@@ -24,7 +24,7 @@ function [vsr] = FeatureSpectralRolloff (X, f_s, kappa)
     end
     
     % convert from index to Hz
-    if ~isempty(f_s)
-        vsr     = vsr / size(X,1) * f_s/2;
-    end
+    %if ~isempty(f_s)
+    %    vsr     = vsr / size(X,1) * f_s/2;
+    %end
 end

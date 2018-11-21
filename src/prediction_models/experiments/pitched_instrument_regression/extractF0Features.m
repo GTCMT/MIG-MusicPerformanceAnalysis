@@ -8,7 +8,7 @@ thresh1=0.1;
 thresh2=0.4;
 
 % perform note segmentation
-note = noteSegmentation(audio, f0, Fs, hop, 50, 0.2 , -50, true);
+note = noteSegmentation(audio, f0, Fs, hop, 50, 0.1 , -50, false);
 
 % feature over entire segment
 f0_features(1,1) = PlayingNotes100CntsHist(f0);
