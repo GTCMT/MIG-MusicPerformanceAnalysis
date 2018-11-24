@@ -5,7 +5,7 @@
 % specify configuration
 band = 'middle';
 inst_strings = {'Alto Saxophone','Bb Clarinet', 'Flute'};
-segment = 2;
+segment = 4;
 pitch_contour_type = 'pyin'; % options are 'pyin' and 'acf'
 if strcmp(pitch_contour_type, 'pyin') == 1
     data_folder = 'dataPyin/';
@@ -22,6 +22,7 @@ non_score_filestring = '_NonScore_';
 score_filestring = '_Score_';
 combined_filestring = '_Combined_';
 std_filestring = '_baseline_';
+
 %% Compute and Save Features
 year_strings = {'2013', '2014', '2015'};
 for j=1:length(inst_strings)
@@ -38,13 +39,13 @@ for j=1:length(inst_strings)
             ns_func_handle = str2func(['getFeatureForSegment', function_suffix]);
             ns_func_handle(band, inst, segment, year_string, num_nonscore);
         end
-        if strcmp(inst, 'Alto Saxophone') == 1
+        if and(strcmp(inst, 'Alto Saxophone') == 1, segment==2)
             score_feature_file = [data_folder, band, inst, num2str(segment), score_filestring, year_string, '.mat'];
             if exist(score_feature_file, 'file') ~= 2
                 s_func_handle = str2func(['getScoredFeatureForSegment', function_suffix]);
                 s_func_handle(band, inst, segment, year_string, num_score);
             end
-            % combine features
+            % combine non-score and score based features
             combined_feature_file = [data_folder, band, inst, num2str(segment), combined_filestring, year_string, '.mat'];
             load(non_score_feature_file);
             features1 = features;

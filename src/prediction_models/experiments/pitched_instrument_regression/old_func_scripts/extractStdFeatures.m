@@ -35,22 +35,22 @@
 %>  'TimeZeroCrossingRate',
 function [features] = extractStdFeatures(audio, Fs, wSize, hop)
 % only spectral features are needed, hence others are commented
-    FeatureNames={'SpectralCentroid',
-  'SpectralRolloff',
+    FeatureNames = {'SpectralCentroid',
+    'SpectralRolloff',
     'SpectralFlux',
 %   'SpectralSkewness',
 %   'SpectralSlope',
 %   'SpectralSpread',
 %   'SpectralTonalPowerRatio',
-  %'TimeAcfCoeff',
-  %'TimeMaxAcf',
+%   'TimeAcfCoeff',
+%   'TimeMaxAcf',
 %   'TimePeakEnvelope',
 %   'TimePredictivityRatio',
-%  'TimeRms',  
-%  'TimeStd',
-  'TimeZeroCrossingRate',
-  'SpectralMfccs'
-};
+%   'TimeRms',  
+%   'TimeStd',
+    'TimeZeroCrossingRate',
+    'SpectralMfccs'
+    };
     features=zeros(1,(13+4)*4);
     nfft=wSize;
     noverlap=wSize-hop;

@@ -32,7 +32,6 @@ function [features] = extractFeatures(audio, Fs, wSize, hop)
         a = note(i).pitches_hz;
         b = note(i).audio;
         [stdDev(i) countGreaterStdDev(i)]=NoteSteadinessMeasure(a);
-        
         timbreMeasure(:,i) =timbreDev(note(i).audio,Fs);
 
         amp_hist_feature(i) = ampHist(b,Fs);
