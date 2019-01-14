@@ -54,8 +54,9 @@ for(window_idx = 1:num_windows)
   end
   past_pitch=cur_pitch;
 end
-boundaries=[boundaries;num_windows];
-
+if boundaries(end) ~= num_windows
+    boundaries=[boundaries;num_windows];
+end
 % Derive notes from boundaries.
 num_notes = size(boundaries, 1) - 1;
 notes(num_notes) = struct();
