@@ -17,7 +17,7 @@ if strcmp(BAND_OPTION, 'middle')
     band_folder = 'middleschool';
 elseif strcmp(BAND_OPTION, 'concert')
     band_folder = 'concertband';
-elseif strcmp(YEAR_OPTION, 'symphonic')
+elseif strcmp(BAND_OPTION, 'symphonic')
     band_folder = 'symphonicband';
 end
 
