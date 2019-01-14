@@ -1,14 +1,14 @@
 %% scriptSaveTrainingData
-% script to computeand save training data in different configurations
+% script to compute and save training data in different configurations
 
 % specify configuration
-segment_option = 2;
-band_options = {'middle'};
+segment_option = 4;
+band_options = {'symphonic'};
 instrument_options = {'Alto Saxophone','Bb Clarinet', 'Flute'};
 year_options = {'2013', '2014', '2015'};
-feature_options = {'std', 'nonscore', 'score'};
+feature_options = {'std', 'nonscore'};
 pitch_option = 'pyin'; % options are 'pyin' and 'acf'
-quick = 1;
+quick = 0;
 if strcmp(pitch_option, 'pyin') == 1
     data_folder = 'dataPyin/';
 else
