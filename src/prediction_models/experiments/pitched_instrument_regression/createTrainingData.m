@@ -113,7 +113,7 @@ for student_idx = 1:num_students
     % Store all assessments.
     %% TODO: complete this for other segments
     if SEGMENT_OPTION == 2
-        segment_assessments = student_assessments(2:5);
+        segment_assessments = student_assessments(3:6);
     else
         segment_assessments = student_assessments(student_assessments ~= -1);
     end
