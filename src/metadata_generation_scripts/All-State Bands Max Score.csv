@@ -1,0 +1,1062 @@
+AllStateBandID,SchoolYear,ScoreGroup,Description,MaxScore,Percussion,NotCountedInTotal
+1,2012-2013,Lyrical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+1,2012-2013,Lyrical Etude,Tone Quality,15,NULL,NULL
+1,2012-2013,Lyrical Etude,Note Accuracy,10,NULL,NULL
+1,2012-2013,Lyrical Etude,Rhythmic Accuracy,10,NULL,NULL
+1,2012-2013,Lyrical Etude,Artistry,5,NULL,NULL
+1,2012-2013,Mallet Etude,"Musicality, Tempo & Style",20,1,NULL
+1,2012-2013,Mallet Etude,Note Accuracy,10,1,NULL
+1,2012-2013,Mallet Etude,Rhythmic Accuracy,10,1,NULL
+1,2012-2013,Reading-Mallet,Note Accuracy & Tone,10,1,NULL
+1,2012-2013,Reading-Mallet,Rhythmic Accuracy & Articulation,10,1,NULL
+1,2012-2013,Reading-Mallet,Musicality & Style,15,1,NULL
+1,2012-2013,Reading-Snare,Note Accuracy & Tone,10,1,NULL
+1,2012-2013,Reading-Snare,Rhythmic Accuracy & Articulation,10,1,NULL
+1,2012-2013,Reading-Snare,Musicality & Style,15,1,NULL
+1,2012-2013,Reading-Timpani,Note Accuracy,10,1,NULL
+1,2012-2013,Reading-Timpani,Rhythmic Accuracy & Articulation,10,1,NULL
+1,2012-2013,Reading-Timpani,Musicality & Style,15,1,NULL
+1,2012-2013,Scales,Chromatic,15,1,NULL
+1,2012-2013,Scales,Chromatic,15,NULL,NULL
+1,2012-2013,Scales,Note Accuracy,40,1,NULL
+1,2012-2013,Scales,G,8,NULL,NULL
+1,2012-2013,Scales,Tempo & Consistency,40,1,NULL
+1,2012-2013,Scales,C,8,NULL,NULL
+1,2012-2013,Scales,"Musicality, Phrasing & Style",20,1,NULL
+1,2012-2013,Scales,F,8,NULL,NULL
+1,2012-2013,Scales,Bb,8,NULL,NULL
+1,2012-2013,Scales,Eb,8,NULL,NULL
+1,2012-2013,Scales,Ab,8,NULL,NULL
+1,2012-2013,Scales,Db,8,NULL,NULL
+1,2012-2013,Scales,Note Accuracy/Consistency,30,NULL,NULL
+1,2012-2013,Scales,Articulation & Style,10,NULL,NULL
+1,2012-2013,Scales,Tone Quality,15,NULL,NULL
+1,2012-2013,Scales,"Musicality, Tempo, & Style",10,NULL,NULL
+1,2012-2013,Sight-Reading,Note Accuracy,10,NULL,NULL
+1,2012-2013,Sight-Reading,Rhythmic Accuracy,10,NULL,NULL
+1,2012-2013,Sight-Reading,"Musicallity, Tempo & Style",10,NULL,NULL
+1,2012-2013,Sight-Reading,Tone Quality,5,NULL,NULL
+1,2012-2013,Sight-Reading,Artistry,5,NULL,NULL
+1,2012-2013,Snare Etude,"Musicallyty, Tempo & Style",20,1,NULL
+1,2012-2013,Snare Etude,Note Accuracy,10,1,NULL
+1,2012-2013,Snare Etude,Rhythmic Accuracy,10,1,NULL
+1,2012-2013,Technical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+1,2012-2013,Technical Etude,Tone Quality,15,NULL,NULL
+1,2012-2013,Technical Etude,Note Accuracy,10,NULL,NULL
+1,2012-2013,Technical Etude,Rhythmic Accuracy,10,NULL,NULL
+1,2012-2013,Technical Etude,Articulation,5,NULL,NULL
+1,2012-2013,Timpani Etude,"Musicality, Tempo, & Style",20,1,NULL
+1,2012-2013,Timpani Etude,Note Accuracy,10,1,NULL
+1,2012-2013,Timpani Etude,Rhythmic Accuracy,10,1,NULL
+2,2012-2013,Lyrical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+2,2012-2013,Lyrical Etude,Tone Quality,15,NULL,NULL
+2,2012-2013,Lyrical Etude,Note Accuracy,10,NULL,NULL
+2,2012-2013,Lyrical Etude,Rhythmic Accuracy,10,NULL,NULL
+2,2012-2013,Lyrical Etude,Artistry,5,NULL,NULL
+2,2012-2013,Mallet Etude,"Musicality, Tempo & Style",20,1,NULL
+2,2012-2013,Mallet Etude,Note Accuracy,10,1,NULL
+2,2012-2013,Mallet Etude,Rhythmic Accuracy,10,1,NULL
+2,2012-2013,Reading-Mallet,Note Accuracy & Tone,10,1,NULL
+2,2012-2013,Reading-Mallet,Rhythmic Accuracy & Articulation,10,1,NULL
+2,2012-2013,Reading-Mallet,Musicality & Style,15,1,NULL
+2,2012-2013,Reading-Snare,Note Accuracy & Tone,10,1,NULL
+2,2012-2013,Reading-Snare,Rhythmic Accuracy & Articulation,10,1,NULL
+2,2012-2013,Reading-Snare,Musicality & Style,15,1,NULL
+2,2012-2013,Reading-Timpani,Note Accuracy,10,1,NULL
+2,2012-2013,Reading-Timpani,Rhythmic Accuracy & Articulation,10,1,NULL
+2,2012-2013,Reading-Timpani,Musicality & Style,15,1,NULL
+2,2012-2013,Scales,Chromatic,15,1,NULL
+2,2012-2013,Scales,Chromatic,15,NULL,NULL
+2,2012-2013,Scales,Note Accuracy,40,1,NULL
+2,2012-2013,Scales,G,8,NULL,NULL
+2,2012-2013,Scales,Tempo & Consistency,40,1,NULL
+2,2012-2013,Scales,Ab,8,NULL,NULL
+2,2012-2013,Scales,"Musicality, Phrasing & Style",20,1,NULL
+2,2012-2013,Scales,A,8,NULL,NULL
+2,2012-2013,Scales,Bb,8,NULL,NULL
+2,2012-2013,Scales,B,8,NULL,NULL
+2,2012-2013,Scales,C,8,NULL,NULL
+2,2012-2013,Scales,Db,8,NULL,NULL
+2,2012-2013,Scales,D,8,NULL,NULL
+2,2012-2013,Scales,Eb,8,NULL,NULL
+2,2012-2013,Scales,E,8,NULL,NULL
+2,2012-2013,Scales,F,8,NULL,NULL
+2,2012-2013,Scales,Gb,8,NULL,NULL
+2,2012-2013,Scales,Note Accuracy/Consistency,30,NULL,NULL
+2,2012-2013,Scales,Tone Quality,20,NULL,NULL
+2,2012-2013,Scales,"Musicality, Tempo, & Style",10,NULL,NULL
+2,2012-2013,Sight-Reading,Note Accuracy,10,NULL,NULL
+2,2012-2013,Sight-Reading,Rhythmic Accuracy,10,NULL,NULL
+2,2012-2013,Sight-Reading,"Musicallity, Tempo & Style",10,NULL,NULL
+2,2012-2013,Sight-Reading,Tone Quality,5,NULL,NULL
+2,2012-2013,Sight-Reading,Artistry,5,NULL,NULL
+2,2012-2013,Snare Etude,"Musicallyty, Tempo & Style",20,1,NULL
+2,2012-2013,Snare Etude,Note Accuracy,10,1,NULL
+2,2012-2013,Snare Etude,Rhythmic Accuracy,10,1,NULL
+2,2012-2013,Technical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+2,2012-2013,Technical Etude,Tone Quality,15,NULL,NULL
+2,2012-2013,Technical Etude,Note Accuracy,10,NULL,NULL
+2,2012-2013,Technical Etude,Rhythmic Accuracy,10,NULL,NULL
+2,2012-2013,Technical Etude,Artistry,5,NULL,NULL
+2,2012-2013,Timpani Etude,"Musicality, Tempo, & Style",20,1,NULL
+2,2012-2013,Timpani Etude,Note Accuracy,10,1,NULL
+2,2012-2013,Timpani Etude,Rhythmic Accuracy,10,1,NULL
+3,2012-2013,Lyrical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+3,2012-2013,Lyrical Etude,Tone Quality,15,NULL,NULL
+3,2012-2013,Lyrical Etude,Note Accuracy,10,NULL,NULL
+3,2012-2013,Lyrical Etude,Rhythmic Accuracy,10,NULL,NULL
+3,2012-2013,Lyrical Etude,Artistry,5,NULL,NULL
+3,2012-2013,Mallet Etude,"Musicality, Tempo & Style",20,1,NULL
+3,2012-2013,Mallet Etude,Note Accuracy,10,1,NULL
+3,2012-2013,Mallet Etude,Rhythmic Accuracy,10,1,NULL
+3,2012-2013,Reading-Mallet,Note Accuracy & Tone,10,1,NULL
+3,2012-2013,Reading-Mallet,Rhythmic Accuracy & Articulation,10,1,NULL
+3,2012-2013,Reading-Mallet,Musicality & Style,15,1,NULL
+3,2012-2013,Reading-Snare,Note Accuracy & Tone,10,1,NULL
+3,2012-2013,Reading-Snare,Rhythmic Accuracy & Articulation,10,1,NULL
+3,2012-2013,Reading-Snare,Musicality & Style,15,1,NULL
+3,2012-2013,Reading-Timpani,Note Accuracy,10,1,NULL
+3,2012-2013,Reading-Timpani,Rhythmic Accuracy & Articulation,10,1,NULL
+3,2012-2013,Reading-Timpani,Musicality & Style,15,1,NULL
+3,2012-2013,Scales,Chromatic,15,1,NULL
+3,2012-2013,Scales,Chromatic,15,NULL,NULL
+3,2012-2013,Scales,Note Accuracy,40,1,NULL
+3,2012-2013,Scales,G,8,NULL,NULL
+3,2012-2013,Scales,Tempo & Consistency,40,1,NULL
+3,2012-2013,Scales,Ab,8,NULL,NULL
+3,2012-2013,Scales,"Musicality, Phrasing & Style",20,1,NULL
+3,2012-2013,Scales,A,8,NULL,NULL
+3,2012-2013,Scales,Bb,8,NULL,NULL
+3,2012-2013,Scales,B,8,NULL,NULL
+3,2012-2013,Scales,C,8,NULL,NULL
+3,2012-2013,Scales,Db,8,NULL,NULL
+3,2012-2013,Scales,D,8,NULL,NULL
+3,2012-2013,Scales,Eb,8,NULL,NULL
+3,2012-2013,Scales,E,8,NULL,NULL
+3,2012-2013,Scales,F,8,NULL,NULL
+3,2012-2013,Scales,Gb,8,NULL,NULL
+3,2012-2013,Scales,Note Accuracy/Consistency,30,NULL,NULL
+3,2012-2013,Scales,Tone Quality,20,NULL,NULL
+3,2012-2013,Scales,"Musicality, Tempo, & Style",10,NULL,NULL
+3,2012-2013,Sight-Reading,Note Accuracy,10,NULL,NULL
+3,2012-2013,Sight-Reading,Rhythmic Accuracy,10,NULL,NULL
+3,2012-2013,Sight-Reading,"Musicallity, Tempo & Style",10,NULL,NULL
+3,2012-2013,Sight-Reading,Tone Quality,5,NULL,NULL
+3,2012-2013,Sight-Reading,Artistry,5,NULL,NULL
+3,2012-2013,Snare Etude,"Musicallyty, Tempo & Style",20,1,NULL
+3,2012-2013,Snare Etude,Note Accuracy,10,1,NULL
+3,2012-2013,Snare Etude,Rhythmic Accuracy,10,1,NULL
+3,2012-2013,Technical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+3,2012-2013,Technical Etude,Tone Quality,15,NULL,NULL
+3,2012-2013,Technical Etude,Note Accuracy,10,NULL,NULL
+3,2012-2013,Technical Etude,Rhythmic Accuracy,10,NULL,NULL
+3,2012-2013,Technical Etude,Artistry,5,NULL,NULL
+3,2012-2013,Timpani Etude,"Musicality, Tempo, & Style",20,1,NULL
+3,2012-2013,Timpani Etude,Note Accuracy,10,1,NULL
+3,2012-2013,Timpani Etude,Rhythmic Accuracy,10,1,NULL
+1,2013-2014,Lyrical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+1,2013-2014,Lyrical Etude,Tone Quality,15,NULL,NULL
+1,2013-2014,Lyrical Etude,Note Accuracy,10,NULL,NULL
+1,2013-2014,Lyrical Etude,Rhythmic Accuracy,10,NULL,NULL
+1,2013-2014,Lyrical Etude,Artistry,5,NULL,NULL
+1,2013-2014,Mallet Etude,"Musicality, Tempo & Style",20,1,NULL
+1,2013-2014,Mallet Etude,Note Accuracy,10,1,NULL
+1,2013-2014,Mallet Etude,Rhythmic Accuracy,10,1,NULL
+1,2013-2014,Reading-Mallet,Note Accuracy & Tone,10,1,NULL
+1,2013-2014,Reading-Mallet,Rhythmic Accuracy & Articulation,10,1,NULL
+1,2013-2014,Reading-Mallet,Musicality & Style,15,1,NULL
+1,2013-2014,Reading-Snare,Note Accuracy & Tone,10,1,NULL
+1,2013-2014,Reading-Snare,Rhythmic Accuracy & Articulation,10,1,NULL
+1,2013-2014,Reading-Snare,Musicality & Style,15,1,NULL
+1,2013-2014,Reading-Timpani,Note Accuracy,10,1,NULL
+1,2013-2014,Reading-Timpani,Rhythmic Accuracy & Articulation,10,1,NULL
+1,2013-2014,Reading-Timpani,Musicality & Style,15,1,NULL
+1,2013-2014,Scales,Chromatic,15,1,NULL
+1,2013-2014,Scales,Chromatic,15,NULL,NULL
+1,2013-2014,Scales,Note Accuracy,40,1,NULL
+1,2013-2014,Scales,G,8,NULL,NULL
+1,2013-2014,Scales,Tempo & Consistency,40,1,NULL
+1,2013-2014,Scales,C,8,NULL,NULL
+1,2013-2014,Scales,"Musicality, Phrasing & Style",20,1,NULL
+1,2013-2014,Scales,F,8,NULL,NULL
+1,2013-2014,Scales,Bb,8,NULL,NULL
+1,2013-2014,Scales,Eb,8,NULL,NULL
+1,2013-2014,Scales,Ab,8,NULL,NULL
+1,2013-2014,Scales,Db,8,NULL,NULL
+1,2013-2014,Scales,Note Accuracy/Consistency,30,NULL,NULL
+1,2013-2014,Scales,Articulation & Style,10,NULL,NULL
+1,2013-2014,Scales,Tone Quality,15,NULL,NULL
+1,2013-2014,Scales,"Musicality, Tempo, & Style",10,NULL,NULL
+1,2013-2014,Sight-Reading,Note Accuracy,10,NULL,NULL
+1,2013-2014,Sight-Reading,Rhythmic Accuracy,10,NULL,NULL
+1,2013-2014,Sight-Reading,"Musicallity, Tempo & Style",10,NULL,NULL
+1,2013-2014,Sight-Reading,Tone Quality,5,NULL,NULL
+1,2013-2014,Sight-Reading,Artistry,5,NULL,NULL
+1,2013-2014,Snare Etude,"Musicallyty, Tempo & Style",20,1,NULL
+1,2013-2014,Snare Etude,Note Accuracy,10,1,NULL
+1,2013-2014,Snare Etude,Rhythmic Accuracy,10,1,NULL
+1,2013-2014,Technical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+1,2013-2014,Technical Etude,Tone Quality,15,NULL,NULL
+1,2013-2014,Technical Etude,Note Accuracy,10,NULL,NULL
+1,2013-2014,Technical Etude,Rhythmic Accuracy,10,NULL,NULL
+1,2013-2014,Technical Etude,Articulation,5,NULL,NULL
+1,2013-2014,Timpani Etude,"Musicality, Tempo, & Style",20,1,NULL
+1,2013-2014,Timpani Etude,Note Accuracy,10,1,NULL
+1,2013-2014,Timpani Etude,Rhythmic Accuracy,10,1,NULL
+2,2013-2014,Lyrical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+2,2013-2014,Lyrical Etude,Tone Quality,15,NULL,NULL
+2,2013-2014,Lyrical Etude,Note Accuracy,10,NULL,NULL
+2,2013-2014,Lyrical Etude,Rhythmic Accuracy,10,NULL,NULL
+2,2013-2014,Lyrical Etude,Artistry,5,NULL,NULL
+2,2013-2014,Mallet Etude,"Musicality, Tempo & Style",20,1,NULL
+2,2013-2014,Mallet Etude,Note Accuracy,10,1,NULL
+2,2013-2014,Mallet Etude,Rhythmic Accuracy,10,1,NULL
+2,2013-2014,Reading-Mallet,Note Accuracy & Tone,10,1,NULL
+2,2013-2014,Reading-Mallet,Rhythmic Accuracy & Articulation,10,1,NULL
+2,2013-2014,Reading-Mallet,Musicality & Style,15,1,NULL
+2,2013-2014,Reading-Snare,Note Accuracy & Tone,10,1,NULL
+2,2013-2014,Reading-Snare,Rhythmic Accuracy & Articulation,10,1,NULL
+2,2013-2014,Reading-Snare,Musicality & Style,15,1,NULL
+2,2013-2014,Reading-Timpani,Note Accuracy,10,1,NULL
+2,2013-2014,Reading-Timpani,Rhythmic Accuracy & Articulation,10,1,NULL
+2,2013-2014,Reading-Timpani,Musicality & Style,15,1,NULL
+2,2013-2014,Scales,Chromatic,15,1,NULL
+2,2013-2014,Scales,Chromatic,15,NULL,NULL
+2,2013-2014,Scales,Note Accuracy,40,1,NULL
+2,2013-2014,Scales,G,8,NULL,NULL
+2,2013-2014,Scales,Tempo & Consistency,40,1,NULL
+2,2013-2014,Scales,Ab,8,NULL,NULL
+2,2013-2014,Scales,"Musicality, Phrasing & Style",20,1,NULL
+2,2013-2014,Scales,A,8,NULL,NULL
+2,2013-2014,Scales,Bb,8,NULL,NULL
+2,2013-2014,Scales,B,8,NULL,NULL
+2,2013-2014,Scales,C,8,NULL,NULL
+2,2013-2014,Scales,Db,8,NULL,NULL
+2,2013-2014,Scales,D,8,NULL,NULL
+2,2013-2014,Scales,Eb,8,NULL,NULL
+2,2013-2014,Scales,E,8,NULL,NULL
+2,2013-2014,Scales,F,8,NULL,NULL
+2,2013-2014,Scales,Gb,8,NULL,NULL
+2,2013-2014,Scales,Note Accuracy/Consistency,30,NULL,NULL
+2,2013-2014,Scales,Tone Quality,20,NULL,NULL
+2,2013-2014,Scales,"Musicality, Tempo, & Style",10,NULL,NULL
+2,2013-2014,Sight-Reading,Note Accuracy,10,NULL,NULL
+2,2013-2014,Sight-Reading,Rhythmic Accuracy,10,NULL,NULL
+2,2013-2014,Sight-Reading,"Musicallity, Tempo & Style",10,NULL,NULL
+2,2013-2014,Sight-Reading,Tone Quality,5,NULL,NULL
+2,2013-2014,Sight-Reading,Artistry,5,NULL,NULL
+2,2013-2014,Snare Etude,"Musicallyty, Tempo & Style",20,1,NULL
+2,2013-2014,Snare Etude,Note Accuracy,10,1,NULL
+2,2013-2014,Snare Etude,Rhythmic Accuracy,10,1,NULL
+2,2013-2014,Technical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+2,2013-2014,Technical Etude,Tone Quality,15,NULL,NULL
+2,2013-2014,Technical Etude,Note Accuracy,10,NULL,NULL
+2,2013-2014,Technical Etude,Rhythmic Accuracy,10,NULL,NULL
+2,2013-2014,Technical Etude,Artistry,5,NULL,NULL
+2,2013-2014,Timpani Etude,"Musicality, Tempo, & Style",20,1,NULL
+2,2013-2014,Timpani Etude,Note Accuracy,10,1,NULL
+2,2013-2014,Timpani Etude,Rhythmic Accuracy,10,1,NULL
+3,2013-2014,Lyrical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+3,2013-2014,Lyrical Etude,Tone Quality,15,NULL,NULL
+3,2013-2014,Lyrical Etude,Note Accuracy,10,NULL,NULL
+3,2013-2014,Lyrical Etude,Rhythmic Accuracy,10,NULL,NULL
+3,2013-2014,Lyrical Etude,Artistry,5,NULL,NULL
+3,2013-2014,Mallet Etude,"Musicality, Tempo & Style",20,1,NULL
+3,2013-2014,Mallet Etude,Note Accuracy,10,1,NULL
+3,2013-2014,Mallet Etude,Rhythmic Accuracy,10,1,NULL
+3,2013-2014,Reading-Mallet,Note Accuracy & Tone,10,1,NULL
+3,2013-2014,Reading-Mallet,Rhythmic Accuracy & Articulation,10,1,NULL
+3,2013-2014,Reading-Mallet,Musicality & Style,15,1,NULL
+3,2013-2014,Reading-Snare,Note Accuracy & Tone,10,1,NULL
+3,2013-2014,Reading-Snare,Rhythmic Accuracy & Articulation,10,1,NULL
+3,2013-2014,Reading-Snare,Musicality & Style,15,1,NULL
+3,2013-2014,Reading-Timpani,Note Accuracy,10,1,NULL
+3,2013-2014,Reading-Timpani,Rhythmic Accuracy & Articulation,10,1,NULL
+3,2013-2014,Reading-Timpani,Musicality & Style,15,1,NULL
+3,2013-2014,Scales,Chromatic,15,1,NULL
+3,2013-2014,Scales,Chromatic,15,NULL,NULL
+3,2013-2014,Scales,Note Accuracy,40,1,NULL
+3,2013-2014,Scales,G,8,NULL,NULL
+3,2013-2014,Scales,Tempo & Consistency,40,1,NULL
+3,2013-2014,Scales,Ab,8,NULL,NULL
+3,2013-2014,Scales,"Musicality, Phrasing & Style",20,1,NULL
+3,2013-2014,Scales,A,8,NULL,NULL
+3,2013-2014,Scales,Bb,8,NULL,NULL
+3,2013-2014,Scales,B,8,NULL,NULL
+3,2013-2014,Scales,C,8,NULL,NULL
+3,2013-2014,Scales,Db,8,NULL,NULL
+3,2013-2014,Scales,D,8,NULL,NULL
+3,2013-2014,Scales,Eb,8,NULL,NULL
+3,2013-2014,Scales,E,8,NULL,NULL
+3,2013-2014,Scales,F,8,NULL,NULL
+3,2013-2014,Scales,Gb,8,NULL,NULL
+3,2013-2014,Scales,Note Accuracy/Consistency,30,NULL,NULL
+3,2013-2014,Scales,Tone Quality,20,NULL,NULL
+3,2013-2014,Scales,"Musicality, Tempo, & Style",10,NULL,NULL
+3,2013-2014,Sight-Reading,Note Accuracy,10,NULL,NULL
+3,2013-2014,Sight-Reading,Rhythmic Accuracy,10,NULL,NULL
+3,2013-2014,Sight-Reading,"Musicallity, Tempo & Style",10,NULL,NULL
+3,2013-2014,Sight-Reading,Tone Quality,5,NULL,NULL
+3,2013-2014,Sight-Reading,Artistry,5,NULL,NULL
+3,2013-2014,Snare Etude,"Musicallyty, Tempo & Style",20,1,NULL
+3,2013-2014,Snare Etude,Note Accuracy,10,1,NULL
+3,2013-2014,Snare Etude,Rhythmic Accuracy,10,1,NULL
+3,2013-2014,Technical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+3,2013-2014,Technical Etude,Tone Quality,15,NULL,NULL
+3,2013-2014,Technical Etude,Note Accuracy,10,NULL,NULL
+3,2013-2014,Technical Etude,Rhythmic Accuracy,10,NULL,NULL
+3,2013-2014,Technical Etude,Artistry,5,NULL,NULL
+3,2013-2014,Timpani Etude,"Musicality, Tempo, & Style",20,1,NULL
+3,2013-2014,Timpani Etude,Note Accuracy,10,1,NULL
+3,2013-2014,Timpani Etude,Rhythmic Accuracy,10,1,NULL
+1,2014-2015,Chromatic Scale,Chromatic,15,1,NULL
+1,2014-2015,Chromatic Scale,Chromatic,15,NULL,NULL
+1,2014-2015,Lyrical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+1,2014-2015,Lyrical Etude,Tone Quality,15,NULL,NULL
+1,2014-2015,Lyrical Etude,Note Accuracy,10,NULL,NULL
+1,2014-2015,Lyrical Etude,Rhythmic Accuracy,10,NULL,NULL
+1,2014-2015,Lyrical Etude,Artistry,5,NULL,NULL
+1,2014-2015,Major Scales,Note Accuracy,40,1,NULL
+1,2014-2015,Major Scales,G,15,NULL,NULL
+1,2014-2015,Major Scales,Tempo & Consistency,40,1,NULL
+1,2014-2015,Major Scales,C,15,NULL,NULL
+1,2014-2015,Major Scales,"Musicality, Phrasing & Style",20,1,NULL
+1,2014-2015,Major Scales,F,15,NULL,NULL
+1,2014-2015,Major Scales,Bb,15,NULL,NULL
+1,2014-2015,Major Scales,Eb,15,NULL,NULL
+1,2014-2015,Major Scales,Ab,15,NULL,NULL
+1,2014-2015,Major Scales,Db,15,NULL,NULL
+1,2014-2015,Mallet Etude,"Musicality, Tempo & Style",20,1,NULL
+1,2014-2015,Mallet Etude,Note Accuracy,10,1,NULL
+1,2014-2015,Mallet Etude,Rhythmic Accuracy,10,1,NULL
+1,2014-2015,Reading-Mallet,Note Accuracy & Tone,10,1,NULL
+1,2014-2015,Reading-Mallet,Rhythmic Accuracy & Articulation,10,1,NULL
+1,2014-2015,Reading-Mallet,Musicality & Style,15,1,NULL
+1,2014-2015,Reading-Snare,Note Accuracy & Tone,10,1,NULL
+1,2014-2015,Reading-Snare,Rhythmic Accuracy & Articulation,10,1,NULL
+1,2014-2015,Reading-Snare,Musicality & Style,15,1,NULL
+1,2014-2015,Reading-Timpani,Note Accuracy,10,1,NULL
+1,2014-2015,Reading-Timpani,Rhythmic Accuracy & Articulation,10,1,NULL
+1,2014-2015,Reading-Timpani,Musicality & Style,15,1,NULL
+1,2014-2015,Scales,Note Accuracy/Consistency,30,NULL,NULL
+1,2014-2015,Scales,Articulation & Style,10,NULL,NULL
+1,2014-2015,Scales,Tone Quality,15,NULL,NULL
+1,2014-2015,Scales,"Musicality, Tempo, & Style",10,NULL,NULL
+1,2014-2015,Sight-Reading,Note Accuracy,10,NULL,NULL
+1,2014-2015,Sight-Reading,Rhythmic Accuracy,10,NULL,NULL
+1,2014-2015,Sight-Reading,"Musicallity, Tempo & Style",10,NULL,NULL
+1,2014-2015,Sight-Reading,Tone Quality,5,NULL,NULL
+1,2014-2015,Sight-Reading,Artistry,5,NULL,NULL
+1,2014-2015,Snare Etude,"Musicallyty, Tempo & Style",20,1,NULL
+1,2014-2015,Snare Etude,Note Accuracy,10,1,NULL
+1,2014-2015,Snare Etude,Rhythmic Accuracy,10,1,NULL
+1,2014-2015,Technical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+1,2014-2015,Technical Etude,Tone Quality,15,NULL,NULL
+1,2014-2015,Technical Etude,Note Accuracy,10,NULL,NULL
+1,2014-2015,Technical Etude,Rhythmic Accuracy,10,NULL,NULL
+1,2014-2015,Technical Etude,Articulation,5,NULL,NULL
+1,2014-2015,Timpani Etude,"Musicality, Tempo, & Style",20,1,NULL
+1,2014-2015,Timpani Etude,Note Accuracy,10,1,NULL
+1,2014-2015,Timpani Etude,Rhythmic Accuracy,10,1,NULL
+2,2014-2015,Lyrical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+2,2014-2015,Lyrical Etude,Tone Quality,15,NULL,NULL
+2,2014-2015,Lyrical Etude,Note Accuracy,10,NULL,NULL
+2,2014-2015,Lyrical Etude,Rhythmic Accuracy,10,NULL,NULL
+2,2014-2015,Lyrical Etude,Artistry,5,NULL,NULL
+2,2014-2015,Mallet Etude,"Musicality, Tempo & Style",20,1,NULL
+2,2014-2015,Mallet Etude,Note Accuracy,10,1,NULL
+2,2014-2015,Mallet Etude,Rhythmic Accuracy,10,1,NULL
+2,2014-2015,Reading-Mallet,Note Accuracy & Tone,10,1,NULL
+2,2014-2015,Reading-Mallet,Rhythmic Accuracy & Articulation,10,1,NULL
+2,2014-2015,Reading-Mallet,Musicality & Style,15,1,NULL
+2,2014-2015,Reading-Snare,Note Accuracy & Tone,10,1,NULL
+2,2014-2015,Reading-Snare,Rhythmic Accuracy & Articulation,10,1,NULL
+2,2014-2015,Reading-Snare,Musicality & Style,15,1,NULL
+2,2014-2015,Reading-Timpani,Note Accuracy,10,1,NULL
+2,2014-2015,Reading-Timpani,Rhythmic Accuracy & Articulation,10,1,NULL
+2,2014-2015,Reading-Timpani,Musicality & Style,15,1,NULL
+2,2014-2015,Scales,Chromatic,15,1,NULL
+2,2014-2015,Scales,Chromatic,15,NULL,NULL
+2,2014-2015,Scales,Note Accuracy,40,1,NULL
+2,2014-2015,Scales,G,8,NULL,NULL
+2,2014-2015,Scales,Tempo & Consistency,40,1,NULL
+2,2014-2015,Scales,Ab,8,NULL,NULL
+2,2014-2015,Scales,"Musicality, Phrasing & Style",20,1,NULL
+2,2014-2015,Scales,A,8,NULL,NULL
+2,2014-2015,Scales,Bb,8,NULL,NULL
+2,2014-2015,Scales,B,8,NULL,NULL
+2,2014-2015,Scales,C,8,NULL,NULL
+2,2014-2015,Scales,Db,8,NULL,NULL
+2,2014-2015,Scales,D,8,NULL,NULL
+2,2014-2015,Scales,Eb,8,NULL,NULL
+2,2014-2015,Scales,E,8,NULL,NULL
+2,2014-2015,Scales,F,8,NULL,NULL
+2,2014-2015,Scales,Gb,8,NULL,NULL
+2,2014-2015,Scales,Note Accuracy/Consistency,30,NULL,NULL
+2,2014-2015,Scales,Tone Quality,20,NULL,NULL
+2,2014-2015,Scales,"Musicality, Tempo, & Style",10,NULL,NULL
+2,2014-2015,Sight-Reading,Note Accuracy,10,NULL,NULL
+2,2014-2015,Sight-Reading,Rhythmic Accuracy,10,NULL,NULL
+2,2014-2015,Sight-Reading,"Musicallity, Tempo & Style",10,NULL,NULL
+2,2014-2015,Sight-Reading,Tone Quality,5,NULL,NULL
+2,2014-2015,Sight-Reading,Artistry,5,NULL,NULL
+2,2014-2015,Snare Etude,"Musicallyty, Tempo & Style",20,1,NULL
+2,2014-2015,Snare Etude,Note Accuracy,10,1,NULL
+2,2014-2015,Snare Etude,Rhythmic Accuracy,10,1,NULL
+2,2014-2015,Technical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+2,2014-2015,Technical Etude,Tone Quality,15,NULL,NULL
+2,2014-2015,Technical Etude,Note Accuracy,10,NULL,NULL
+2,2014-2015,Technical Etude,Rhythmic Accuracy,10,NULL,NULL
+2,2014-2015,Technical Etude,Artistry,5,NULL,NULL
+2,2014-2015,Timpani Etude,"Musicality, Tempo, & Style",20,1,NULL
+2,2014-2015,Timpani Etude,Note Accuracy,10,1,NULL
+2,2014-2015,Timpani Etude,Rhythmic Accuracy,10,1,NULL
+3,2014-2015,Lyrical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+3,2014-2015,Lyrical Etude,Tone Quality,15,NULL,NULL
+3,2014-2015,Lyrical Etude,Note Accuracy,10,NULL,NULL
+3,2014-2015,Lyrical Etude,Rhythmic Accuracy,10,NULL,NULL
+3,2014-2015,Lyrical Etude,Artistry,5,NULL,NULL
+3,2014-2015,Mallet Etude,"Musicality, Tempo & Style",20,1,NULL
+3,2014-2015,Mallet Etude,Note Accuracy,10,1,NULL
+3,2014-2015,Mallet Etude,Rhythmic Accuracy,10,1,NULL
+3,2014-2015,Reading-Mallet,Note Accuracy & Tone,10,1,NULL
+3,2014-2015,Reading-Mallet,Rhythmic Accuracy & Articulation,10,1,NULL
+3,2014-2015,Reading-Mallet,Musicality & Style,15,1,NULL
+3,2014-2015,Reading-Snare,Note Accuracy & Tone,10,1,NULL
+3,2014-2015,Reading-Snare,Rhythmic Accuracy & Articulation,10,1,NULL
+3,2014-2015,Reading-Snare,Musicality & Style,15,1,NULL
+3,2014-2015,Reading-Timpani,Note Accuracy,10,1,NULL
+3,2014-2015,Reading-Timpani,Rhythmic Accuracy & Articulation,10,1,NULL
+3,2014-2015,Reading-Timpani,Musicality & Style,15,1,NULL
+3,2014-2015,Scales,Chromatic,15,1,NULL
+3,2014-2015,Scales,Chromatic,15,NULL,NULL
+3,2014-2015,Scales,Note Accuracy,40,1,NULL
+3,2014-2015,Scales,G,8,NULL,NULL
+3,2014-2015,Scales,Tempo & Consistency,40,1,NULL
+3,2014-2015,Scales,Ab,8,NULL,NULL
+3,2014-2015,Scales,"Musicality, Phrasing & Style",20,1,NULL
+3,2014-2015,Scales,A,8,NULL,NULL
+3,2014-2015,Scales,Bb,8,NULL,NULL
+3,2014-2015,Scales,B,8,NULL,NULL
+3,2014-2015,Scales,C,8,NULL,NULL
+3,2014-2015,Scales,Db,8,NULL,NULL
+3,2014-2015,Scales,D,8,NULL,NULL
+3,2014-2015,Scales,Eb,8,NULL,NULL
+3,2014-2015,Scales,E,8,NULL,NULL
+3,2014-2015,Scales,F,8,NULL,NULL
+3,2014-2015,Scales,Gb,8,NULL,NULL
+3,2014-2015,Scales,Note Accuracy/Consistency,30,NULL,NULL
+3,2014-2015,Scales,Tone Quality,20,NULL,NULL
+3,2014-2015,Scales,"Musicality, Tempo, & Style",10,NULL,NULL
+3,2014-2015,Sight-Reading,Note Accuracy,10,NULL,NULL
+3,2014-2015,Sight-Reading,Rhythmic Accuracy,10,NULL,NULL
+3,2014-2015,Sight-Reading,"Musicallity, Tempo & Style",10,NULL,NULL
+3,2014-2015,Sight-Reading,Tone Quality,5,NULL,NULL
+3,2014-2015,Sight-Reading,Artistry,5,NULL,NULL
+3,2014-2015,Snare Etude,"Musicallyty, Tempo & Style",20,1,NULL
+3,2014-2015,Snare Etude,Note Accuracy,10,1,NULL
+3,2014-2015,Snare Etude,Rhythmic Accuracy,10,1,NULL
+3,2014-2015,Technical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+3,2014-2015,Technical Etude,Tone Quality,15,NULL,NULL
+3,2014-2015,Technical Etude,Note Accuracy,10,NULL,NULL
+3,2014-2015,Technical Etude,Rhythmic Accuracy,10,NULL,NULL
+3,2014-2015,Technical Etude,Artistry,5,NULL,NULL
+3,2014-2015,Timpani Etude,"Musicality, Tempo, & Style",20,1,NULL
+3,2014-2015,Timpani Etude,Note Accuracy,10,1,NULL
+3,2014-2015,Timpani Etude,Rhythmic Accuracy,10,1,NULL
+1,2015-2016,Chromatic Scale,Chromatic Scale,8,1,NULL
+1,2015-2016,Chromatic Scale,Chromatic Scale,15,NULL,NULL
+1,2015-2016,Lyrical Etude,Tone Quality,20,NULL,NULL
+1,2015-2016,Lyrical Etude,Note Accuracy,10,NULL,NULL
+1,2015-2016,Lyrical Etude,Rhythmic Accuracy,10,NULL,NULL
+1,2015-2016,Lyrical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+1,2015-2016,Major Scales,G,15,NULL,NULL
+1,2015-2016,Major Scales,G,8,1,NULL
+1,2015-2016,Major Scales,C,8,1,NULL
+1,2015-2016,Major Scales,C,15,NULL,NULL
+1,2015-2016,Major Scales,F,15,NULL,NULL
+1,2015-2016,Major Scales,F,8,1,NULL
+1,2015-2016,Major Scales,Bb,8,1,NULL
+1,2015-2016,Major Scales,Bb,15,NULL,NULL
+1,2015-2016,Major Scales,Eb,15,NULL,NULL
+1,2015-2016,Major Scales,Eb,8,1,NULL
+1,2015-2016,Major Scales,Ab,8,1,NULL
+1,2015-2016,Major Scales,Ab,15,NULL,NULL
+1,2015-2016,Major Scales,Db,15,NULL,NULL
+1,2015-2016,Major Scales,Db,8,1,NULL
+1,2015-2016,Mallet Etude,Note Accuracy & Tone,10,1,NULL
+1,2015-2016,Mallet Etude,Rhythmic Accuracy,10,1,NULL
+1,2015-2016,Mallet Etude,"Musicality, Tempo, & Style",20,1,NULL
+1,2015-2016,Reading-Mallet,Note Accuracy & Tone,10,1,NULL
+1,2015-2016,Reading-Mallet,Rhythmic Accuracy,10,1,NULL
+1,2015-2016,Reading-Mallet,"Musicality, Tempo & Style",10,1,NULL
+1,2015-2016,Reading-Snare,Note Accuracy & Tone,10,1,NULL
+1,2015-2016,Reading-Snare,Rhythmic Accuracy,10,1,NULL
+1,2015-2016,Reading-Snare,"Musicality, Tempo, & Style",10,1,NULL
+1,2015-2016,Sight-Reading,Tone Quality,10,NULL,NULL
+1,2015-2016,Sight-Reading,Note Accuracy,10,NULL,NULL
+1,2015-2016,Sight-Reading,Rhythmic Accuracy,10,NULL,NULL
+1,2015-2016,Sight-Reading,"Musicallity, Tempo & Style",10,NULL,NULL
+1,2015-2016,Snare Etude,Rudimental Accuracy,10,1,NULL
+1,2015-2016,Snare Etude,Rhythmic Accuracy,10,1,NULL
+1,2015-2016,Snare Etude,"Musicality, Tempo, & Style",20,1,NULL
+1,2015-2016,Technical Etude,Tone Quality,20,NULL,NULL
+1,2015-2016,Technical Etude,Note Accuracy,10,NULL,NULL
+1,2015-2016,Technical Etude,Rhythmic Accuracy,10,NULL,NULL
+1,2015-2016,Technical Etude,"Musicality, Tempo & Style",20,NULL,NULL
+1,2015-2016,Timpani Etude,Tuning Accuracy,10,1,NULL
+1,2015-2016,Timpani Etude,Rhythmic Accuracy,10,1,NULL
+1,2015-2016,Timpani Etude,"Musicality, Tempo, & Style",20,1,NULL
+2,2015-2016,Chromatic Scale,Chromatic Scale,8,1,NULL
+2,2015-2016,Chromatic Scale,Chromatic Scale,15,NULL,NULL
+2,2015-2016,Lyrical Etude,Tone Quality,20,0,0
+2,2015-2016,Lyrical Etude,Note Accuracy,10,NULL,NULL
+2,2015-2016,Lyrical Etude,Rhythmic Accuracy,10,NULL,NULL
+2,2015-2016,Lyrical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+2,2015-2016,Major Scales,G,15,NULL,NULL
+2,2015-2016,Major Scales,G,8,1,NULL
+2,2015-2016,Major Scales,Ab,8,1,NULL
+2,2015-2016,Major Scales,Ab,15,NULL,NULL
+2,2015-2016,Major Scales,A,15,NULL,NULL
+2,2015-2016,Major Scales,A,8,1,NULL
+2,2015-2016,Major Scales,Bb,8,1,NULL
+2,2015-2016,Major Scales,Bb,15,NULL,NULL
+2,2015-2016,Major Scales,B,15,NULL,NULL
+2,2015-2016,Major Scales,B,8,1,NULL
+2,2015-2016,Major Scales,C,8,1,NULL
+2,2015-2016,Major Scales,C,15,NULL,NULL
+2,2015-2016,Major Scales,Db,15,NULL,NULL
+2,2015-2016,Major Scales,Db,8,1,NULL
+2,2015-2016,Major Scales,D,8,1,NULL
+2,2015-2016,Major Scales,D,15,NULL,NULL
+2,2015-2016,Major Scales,Eb,15,NULL,NULL
+2,2015-2016,Major Scales,Eb,8,1,NULL
+2,2015-2016,Major Scales,E,8,1,NULL
+2,2015-2016,Major Scales,E,15,NULL,NULL
+2,2015-2016,Major Scales,F,15,NULL,NULL
+2,2015-2016,Major Scales,F,8,1,NULL
+2,2015-2016,Major Scales,Gb,8,1,NULL
+2,2015-2016,Major Scales,Gb,15,NULL,NULL
+2,2015-2016,Mallet Etude,Note Accuracy & Tone,10,1,NULL
+2,2015-2016,Mallet Etude,Rhythmic Accuracy,10,1,NULL
+2,2015-2016,Mallet Etude,"Musicality, Tempo & Style",20,1,NULL
+2,2015-2016,Reading-Mallet,Note Accuracy & Tone,10,1,NULL
+2,2015-2016,Reading-Mallet,Rhythmic Accuracy,10,1,NULL
+2,2015-2016,Reading-Mallet,"Musicality,Tempo, & Style",10,1,NULL
+2,2015-2016,Reading-Snare,Note Accuracy & Tone,10,1,NULL
+2,2015-2016,Reading-Snare,Rhythmic Accuracy,10,1,NULL
+2,2015-2016,Reading-Snare,"Musicality, Tempo, & Style",10,1,NULL
+2,2015-2016,Sight-Reading,Tone Quality,10,NULL,NULL
+2,2015-2016,Sight-Reading,Note Accuracy,10,NULL,NULL
+2,2015-2016,Sight-Reading,Rhythmic Accuracy,10,NULL,NULL
+2,2015-2016,Sight-Reading,"Musicallity, Tempo & Style",10,NULL,NULL
+2,2015-2016,Snare Etude,Rudimental Accuracy,10,1,NULL
+2,2015-2016,Snare Etude,Rhythmic Accuracy,10,1,NULL
+2,2015-2016,Snare Etude,"Musicality, Tempo & Style",20,1,NULL
+2,2015-2016,Technical Etude,Tone Quality,20,0,0
+2,2015-2016,Technical Etude,Note Accuracy,10,NULL,NULL
+2,2015-2016,Technical Etude,Rhythmic Accuracy,10,NULL,NULL
+2,2015-2016,Technical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+2,2015-2016,Timpani Etude,Tuning Accuracy,10,1,NULL
+2,2015-2016,Timpani Etude,Rhythmic Accuracy,10,1,NULL
+2,2015-2016,Timpani Etude,"Musicality, Tempo, & Style",20,1,NULL
+3,2015-2016,Chromatic Scale,Chromatic Scale,8,1,NULL
+3,2015-2016,Chromatic Scale,Chromatic Scale,15,NULL,NULL
+3,2015-2016,Lyrical Etude,Tone Quality,20,NULL,NULL
+3,2015-2016,Lyrical Etude,Note Accuracy,10,NULL,NULL
+3,2015-2016,Lyrical Etude,Rhythmic Accuracy,10,NULL,NULL
+3,2015-2016,Lyrical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+3,2015-2016,Major Scales,G,15,NULL,NULL
+3,2015-2016,Major Scales,G,8,1,NULL
+3,2015-2016,Major Scales,Ab,8,1,NULL
+3,2015-2016,Major Scales,Ab,15,NULL,NULL
+3,2015-2016,Major Scales,A,15,NULL,NULL
+3,2015-2016,Major Scales,A,8,1,NULL
+3,2015-2016,Major Scales,Bb,8,1,NULL
+3,2015-2016,Major Scales,Bb,15,NULL,NULL
+3,2015-2016,Major Scales,B,15,NULL,NULL
+3,2015-2016,Major Scales,B,8,1,NULL
+3,2015-2016,Major Scales,C,8,1,NULL
+3,2015-2016,Major Scales,C,15,NULL,NULL
+3,2015-2016,Major Scales,Db,15,NULL,NULL
+3,2015-2016,Major Scales,Db,8,1,NULL
+3,2015-2016,Major Scales,D,8,1,NULL
+3,2015-2016,Major Scales,D,15,NULL,NULL
+3,2015-2016,Major Scales,Eb,15,NULL,NULL
+3,2015-2016,Major Scales,Eb,8,1,NULL
+3,2015-2016,Major Scales,E,8,1,NULL
+3,2015-2016,Major Scales,E,15,NULL,NULL
+3,2015-2016,Major Scales,F,15,NULL,NULL
+3,2015-2016,Major Scales,F,8,1,NULL
+3,2015-2016,Major Scales,Gb,8,1,NULL
+3,2015-2016,Major Scales,Gb,15,NULL,NULL
+3,2015-2016,Mallet Etude,Note Accuracy & Tone,10,1,NULL
+3,2015-2016,Mallet Etude,Rhythmic Accuracy,10,1,NULL
+3,2015-2016,Mallet Etude,"Musicality, Tempo & Style",20,1,NULL
+3,2015-2016,Reading-Mallet,Note Accuracy & Tone,10,1,NULL
+3,2015-2016,Reading-Mallet,Rhythmic Accuracy & Articulation,10,1,NULL
+3,2015-2016,Reading-Mallet,Musicality & Style,10,1,NULL
+3,2015-2016,Reading-Snare,Note Accuracy & Tone,10,1,NULL
+3,2015-2016,Reading-Snare,Rhythmic Accuracy,10,1,NULL
+3,2015-2016,Reading-Snare,Musicality & Style,10,1,NULL
+3,2015-2016,Sight-Reading,Tone Quality,10,NULL,NULL
+3,2015-2016,Sight-Reading,Note Accuracy,10,NULL,NULL
+3,2015-2016,Sight-Reading,Rhythmic Accuracy,10,NULL,NULL
+3,2015-2016,Sight-Reading,"Musicallity, Tempo & Style",10,NULL,NULL
+3,2015-2016,Snare Etude,Rudimental Accuracy,10,1,NULL
+3,2015-2016,Snare Etude,Rhythmic Accuracy,10,1,NULL
+3,2015-2016,Snare Etude,"Musicality, Tempo & Style",20,1,NULL
+3,2015-2016,Technical Etude,Tone Quality,20,NULL,NULL
+3,2015-2016,Technical Etude,Note Accuracy,10,NULL,NULL
+3,2015-2016,Technical Etude,Rhythmic Accuracy,10,NULL,NULL
+3,2015-2016,Technical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+3,2015-2016,Timpani Etude,Tuning Accuracy,10,1,NULL
+3,2015-2016,Timpani Etude,Rhythmic Accuracy,10,1,NULL
+3,2015-2016,Timpani Etude,"Musicality, Tempo, & Style",20,1,NULL
+1,2016-2017,Chromatic Scale,Chromatic Scale,8,1,NULL
+1,2016-2017,Chromatic Scale,Chromatic Scale,15,NULL,NULL
+1,2016-2017,Lyrical Etude,Tone Quality,20,NULL,NULL
+1,2016-2017,Lyrical Etude,Note Accuracy,10,NULL,NULL
+1,2016-2017,Lyrical Etude,Rhythmic Accuracy,10,NULL,NULL
+1,2016-2017,Lyrical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+1,2016-2017,Major Scales,G,15,NULL,NULL
+1,2016-2017,Major Scales,G,8,1,NULL
+1,2016-2017,Major Scales,C,8,1,NULL
+1,2016-2017,Major Scales,C,15,NULL,NULL
+1,2016-2017,Major Scales,F,15,NULL,NULL
+1,2016-2017,Major Scales,F,8,1,NULL
+1,2016-2017,Major Scales,Bb,8,1,NULL
+1,2016-2017,Major Scales,Bb,15,NULL,NULL
+1,2016-2017,Major Scales,Eb,15,NULL,NULL
+1,2016-2017,Major Scales,Eb,8,1,NULL
+1,2016-2017,Major Scales,Ab,8,1,NULL
+1,2016-2017,Major Scales,Ab,15,NULL,NULL
+1,2016-2017,Major Scales,Db,15,NULL,NULL
+1,2016-2017,Major Scales,Db,8,1,NULL
+1,2016-2017,Mallet Etude,Note Accuracy & Tone,10,1,NULL
+1,2016-2017,Mallet Etude,Rhythmic Accuracy,10,1,NULL
+1,2016-2017,Mallet Etude,"Musicality, Tempo, & Style",20,1,NULL
+1,2016-2017,Reading-Mallet,Note Accuracy & Tone,10,1,NULL
+1,2016-2017,Reading-Mallet,Rhythmic Accuracy,10,1,NULL
+1,2016-2017,Reading-Mallet,"Musicality, Tempo & Style",10,1,NULL
+1,2016-2017,Reading-Snare,Note Accuracy & Tone,10,1,NULL
+1,2016-2017,Reading-Snare,Rhythmic Accuracy,10,1,NULL
+1,2016-2017,Reading-Snare,"Musicality, Tempo, & Style",10,1,NULL
+1,2016-2017,Sight-Reading,Tone Quality,10,NULL,NULL
+1,2016-2017,Sight-Reading,Note Accuracy,10,NULL,NULL
+1,2016-2017,Sight-Reading,Rhythmic Accuracy,10,NULL,NULL
+1,2016-2017,Sight-Reading,"Musicallity, Tempo & Style",10,NULL,NULL
+1,2016-2017,Snare Etude,Rudimental Accuracy,10,1,NULL
+1,2016-2017,Snare Etude,Rhythmic Accuracy,10,1,NULL
+1,2016-2017,Snare Etude,"Musicality, Tempo, & Style",20,1,NULL
+1,2016-2017,Technical Etude,Tone Quality,20,NULL,NULL
+1,2016-2017,Technical Etude,Note Accuracy,10,NULL,NULL
+1,2016-2017,Technical Etude,Rhythmic Accuracy,10,NULL,NULL
+1,2016-2017,Technical Etude,"Musicality, Tempo & Style",20,NULL,NULL
+1,2016-2017,Timpani Etude,Tuning Accuracy,10,1,NULL
+1,2016-2017,Timpani Etude,Rhythmic Accuracy,10,1,NULL
+1,2016-2017,Timpani Etude,"Musicality, Tempo, & Style",20,1,NULL
+2,2016-2017,Chromatic Scale,Chromatic Scale,8,1,NULL
+2,2016-2017,Chromatic Scale,Chromatic Scale,15,NULL,NULL
+2,2016-2017,Lyrical Etude,Tone Quality,20,0,0
+2,2016-2017,Lyrical Etude,Note Accuracy,10,NULL,NULL
+2,2016-2017,Lyrical Etude,Rhythmic Accuracy,10,NULL,NULL
+2,2016-2017,Lyrical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+2,2016-2017,Major Scales,G,15,NULL,NULL
+2,2016-2017,Major Scales,G,8,1,NULL
+2,2016-2017,Major Scales,C,8,1,NULL
+2,2016-2017,Major Scales,C,15,NULL,NULL
+2,2016-2017,Major Scales,F,15,NULL,NULL
+2,2016-2017,Major Scales,F,8,1,NULL
+2,2016-2017,Major Scales,Bb,8,1,NULL
+2,2016-2017,Major Scales,Bb,15,NULL,NULL
+2,2016-2017,Major Scales,Eb,15,NULL,NULL
+2,2016-2017,Major Scales,Eb,8,1,NULL
+2,2016-2017,Major Scales,Ab,8,1,NULL
+2,2016-2017,Major Scales,Ab,15,NULL,NULL
+2,2016-2017,Major Scales,Db,15,NULL,NULL
+2,2016-2017,Major Scales,Db,8,1,NULL
+2,2016-2017,Major Scales,Gb,8,1,NULL
+2,2016-2017,Major Scales,Gb,15,NULL,NULL
+2,2016-2017,Major Scales,B,15,NULL,NULL
+2,2016-2017,Major Scales,B,8,1,NULL
+2,2016-2017,Major Scales,E,8,1,NULL
+2,2016-2017,Major Scales,E,15,NULL,NULL
+2,2016-2017,Major Scales,A,15,NULL,NULL
+2,2016-2017,Major Scales,A,8,1,NULL
+2,2016-2017,Major Scales,D,8,1,NULL
+2,2016-2017,Major Scales,D,15,NULL,NULL
+2,2016-2017,Mallet Etude,Note Accuracy & Tone,10,1,NULL
+2,2016-2017,Mallet Etude,Rhythmic Accuracy,10,1,NULL
+2,2016-2017,Mallet Etude,"Musicality, Tempo & Style",20,1,NULL
+2,2016-2017,Reading-Mallet,Note Accuracy & Tone,10,1,NULL
+2,2016-2017,Reading-Mallet,Rhythmic Accuracy,10,1,NULL
+2,2016-2017,Reading-Mallet,"Musicality,Tempo, & Style",10,1,NULL
+2,2016-2017,Reading-Snare,Note Accuracy & Tone,10,1,NULL
+2,2016-2017,Reading-Snare,Rhythmic Accuracy,10,1,NULL
+2,2016-2017,Reading-Snare,"Musicality, Tempo, & Style",10,1,NULL
+2,2016-2017,Sight-Reading,Tone Quality,10,NULL,NULL
+2,2016-2017,Sight-Reading,Note Accuracy,10,NULL,NULL
+2,2016-2017,Sight-Reading,Rhythmic Accuracy,10,NULL,NULL
+2,2016-2017,Sight-Reading,"Musicallity, Tempo & Style",10,NULL,NULL
+2,2016-2017,Snare Etude,Rudimental Accuracy,10,1,NULL
+2,2016-2017,Snare Etude,Rhythmic Accuracy,10,1,NULL
+2,2016-2017,Snare Etude,"Musicality, Tempo & Style",20,1,NULL
+2,2016-2017,Technical Etude,Tone Quality,20,0,0
+2,2016-2017,Technical Etude,Note Accuracy,10,NULL,NULL
+2,2016-2017,Technical Etude,Rhythmic Accuracy,10,NULL,NULL
+2,2016-2017,Technical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+2,2016-2017,Timpani Etude,Tuning Accuracy,10,1,NULL
+2,2016-2017,Timpani Etude,Rhythmic Accuracy,10,1,NULL
+2,2016-2017,Timpani Etude,"Musicality, Tempo, & Style",20,1,NULL
+3,2016-2017,Chromatic Scale,Chromatic Scale,8,1,NULL
+3,2016-2017,Chromatic Scale,Chromatic Scale,15,NULL,NULL
+3,2016-2017,Lyrical Etude,Tone Quality,20,NULL,NULL
+3,2016-2017,Lyrical Etude,Note Accuracy,10,NULL,NULL
+3,2016-2017,Lyrical Etude,Rhythmic Accuracy,10,NULL,NULL
+3,2016-2017,Lyrical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+3,2016-2017,Major Scales,G,15,NULL,NULL
+3,2016-2017,Major Scales,G,8,1,NULL
+3,2016-2017,Major Scales,C,8,1,NULL
+3,2016-2017,Major Scales,C,15,NULL,NULL
+3,2016-2017,Major Scales,F,15,NULL,NULL
+3,2016-2017,Major Scales,F,8,1,NULL
+3,2016-2017,Major Scales,Bb,8,1,NULL
+3,2016-2017,Major Scales,Bb,15,NULL,NULL
+3,2016-2017,Major Scales,Eb,8,1,NULL
+3,2016-2017,Major Scales,Eb,15,NULL,NULL
+3,2016-2017,Major Scales,Ab,8,1,NULL
+3,2016-2017,Major Scales,Ab,15,NULL,NULL
+3,2016-2017,Major Scales,Db,15,NULL,NULL
+3,2016-2017,Major Scales,Db,8,1,NULL
+3,2016-2017,Major Scales,Gb,8,1,NULL
+3,2016-2017,Major Scales,Gb,15,NULL,NULL
+3,2016-2017,Major Scales,B,15,NULL,NULL
+3,2016-2017,Major Scales,B,8,1,NULL
+3,2016-2017,Major Scales,E,8,1,NULL
+3,2016-2017,Major Scales,E,15,NULL,NULL
+3,2016-2017,Major Scales,A,8,1,NULL
+3,2016-2017,Major Scales,A,15,NULL,NULL
+3,2016-2017,Major Scales,D,15,NULL,NULL
+3,2016-2017,Major Scales,D,8,1,NULL
+3,2016-2017,Mallet Etude,Note Accuracy & Tone,10,1,NULL
+3,2016-2017,Mallet Etude,Rhythmic Accuracy,10,1,NULL
+3,2016-2017,Mallet Etude,"Musicality, Tempo & Style",20,1,NULL
+3,2016-2017,Reading-Mallet,Note Accuracy & Tone,10,1,NULL
+3,2016-2017,Reading-Mallet,Rhythmic Accuracy,10,1,NULL
+3,2016-2017,Reading-Mallet,Musicality & Style,10,1,NULL
+3,2016-2017,Reading-Snare,Note Accuracy & Tone,10,1,NULL
+3,2016-2017,Reading-Snare,Rhythmic Accuracy,10,1,NULL
+3,2016-2017,Reading-Snare,Musicality & Style,10,1,NULL
+3,2016-2017,Sight-Reading,Tone Quality,10,NULL,NULL
+3,2016-2017,Sight-Reading,Note Accuracy,10,NULL,NULL
+3,2016-2017,Sight-Reading,Rhythmic Accuracy,10,NULL,NULL
+3,2016-2017,Sight-Reading,"Musicallity, Tempo & Style",10,NULL,NULL
+3,2016-2017,Snare Etude,Rudimental Accuracy,10,1,NULL
+3,2016-2017,Snare Etude,Rhythmic Accuracy,10,1,NULL
+3,2016-2017,Snare Etude,"Musicality, Tempo & Style",20,1,NULL
+3,2016-2017,Technical Etude,Tone Quality,20,NULL,NULL
+3,2016-2017,Technical Etude,Note Accuracy,10,NULL,NULL
+3,2016-2017,Technical Etude,Rhythmic Accuracy,10,NULL,NULL
+3,2016-2017,Technical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+3,2016-2017,Timpani Etude,Tuning Accuracy,10,1,NULL
+3,2016-2017,Timpani Etude,Rhythmic Accuracy,10,1,NULL
+3,2016-2017,Timpani Etude,"Musicality, Tempo, & Style",20,1,NULL
+1,2017-2018,Chromatic Scale,Chromatic Scale,8,1,NULL
+1,2017-2018,Chromatic Scale,Chromatic Scale,15,NULL,NULL
+1,2017-2018,Lyrical Etude,Tone Quality,20,NULL,NULL
+1,2017-2018,Lyrical Etude,Note Accuracy,10,NULL,NULL
+1,2017-2018,Lyrical Etude,Rhythmic Accuracy,10,NULL,NULL
+1,2017-2018,Lyrical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+1,2017-2018,Major Scales,G,15,NULL,NULL
+1,2017-2018,Major Scales,G,8,1,NULL
+1,2017-2018,Major Scales,C,8,1,NULL
+1,2017-2018,Major Scales,C,15,NULL,NULL
+1,2017-2018,Major Scales,F,15,NULL,NULL
+1,2017-2018,Major Scales,F,8,1,NULL
+1,2017-2018,Major Scales,Bb,8,1,NULL
+1,2017-2018,Major Scales,Bb,15,NULL,NULL
+1,2017-2018,Major Scales,Eb,15,NULL,NULL
+1,2017-2018,Major Scales,Eb,8,1,NULL
+1,2017-2018,Major Scales,Ab,8,1,NULL
+1,2017-2018,Major Scales,Ab,15,NULL,NULL
+1,2017-2018,Major Scales,Db,15,NULL,NULL
+1,2017-2018,Major Scales,Db,8,1,NULL
+1,2017-2018,Mallet Etude,Note Accuracy & Tone,10,1,NULL
+1,2017-2018,Mallet Etude,Rhythmic Accuracy,10,1,NULL
+1,2017-2018,Mallet Etude,"Musicality, Tempo, & Style",20,1,NULL
+1,2017-2018,Reading-Mallet,Note Accuracy & Tone,10,1,NULL
+1,2017-2018,Reading-Mallet,Rhythmic Accuracy,10,1,NULL
+1,2017-2018,Reading-Mallet,"Musicality, Tempo & Style",10,1,NULL
+1,2017-2018,Reading-Snare,Note Accuracy & Tone,10,1,NULL
+1,2017-2018,Reading-Snare,Rhythmic Accuracy,10,1,NULL
+1,2017-2018,Reading-Snare,"Musicality, Tempo, & Style",10,1,NULL
+1,2017-2018,Sight-Reading,Tone Quality,10,NULL,NULL
+1,2017-2018,Sight-Reading,Note Accuracy,10,NULL,NULL
+1,2017-2018,Sight-Reading,Rhythmic Accuracy,10,NULL,NULL
+1,2017-2018,Sight-Reading,"Musicallity, Tempo & Style",10,NULL,NULL
+1,2017-2018,Snare Etude,Rudimental Accuracy,10,1,NULL
+1,2017-2018,Snare Etude,Rhythmic Accuracy,10,1,NULL
+1,2017-2018,Snare Etude,"Musicality, Tempo, & Style",20,1,NULL
+1,2017-2018,Technical Etude,Tone Quality,20,NULL,NULL
+1,2017-2018,Technical Etude,Note Accuracy,10,NULL,NULL
+1,2017-2018,Technical Etude,Rhythmic Accuracy,10,NULL,NULL
+1,2017-2018,Technical Etude,"Musicality, Tempo & Style",20,NULL,NULL
+1,2017-2018,Timpani Etude,Tuning Accuracy,10,1,NULL
+1,2017-2018,Timpani Etude,Rhythmic Accuracy,10,1,NULL
+1,2017-2018,Timpani Etude,"Musicality, Tempo, & Style",20,1,NULL
+2,2017-2018,Chromatic Scale,Chromatic Scale,8,1,NULL
+2,2017-2018,Chromatic Scale,Chromatic Scale,15,NULL,NULL
+2,2017-2018,Lyrical Etude,Tone Quality,20,0,0
+2,2017-2018,Lyrical Etude,Note Accuracy,10,NULL,NULL
+2,2017-2018,Lyrical Etude,Rhythmic Accuracy,10,NULL,NULL
+2,2017-2018,Lyrical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+2,2017-2018,Major Scales,G,15,NULL,NULL
+2,2017-2018,Major Scales,G,8,1,NULL
+2,2017-2018,Major Scales,C,15,NULL,NULL
+2,2017-2018,Major Scales,C,8,1,NULL
+2,2017-2018,Major Scales,F,8,1,NULL
+2,2017-2018,Major Scales,F,15,NULL,NULL
+2,2017-2018,Major Scales,Bb,15,NULL,NULL
+2,2017-2018,Major Scales,Bb,8,1,NULL
+2,2017-2018,Major Scales,Eb,8,1,NULL
+2,2017-2018,Major Scales,Eb,15,NULL,NULL
+2,2017-2018,Major Scales,Ab,8,1,NULL
+2,2017-2018,Major Scales,Ab,15,NULL,NULL
+2,2017-2018,Major Scales,Db,15,NULL,NULL
+2,2017-2018,Major Scales,Db,8,1,NULL
+2,2017-2018,Major Scales,Gb,8,1,NULL
+2,2017-2018,Major Scales,Gb,15,NULL,NULL
+2,2017-2018,Major Scales,B,15,NULL,NULL
+2,2017-2018,Major Scales,B,8,1,NULL
+2,2017-2018,Major Scales,E,8,1,NULL
+2,2017-2018,Major Scales,E,15,NULL,NULL
+2,2017-2018,Major Scales,A,8,1,NULL
+2,2017-2018,Major Scales,A,15,NULL,NULL
+2,2017-2018,Major Scales,D,15,NULL,NULL
+2,2017-2018,Major Scales,D,8,1,NULL
+2,2017-2018,Mallet Etude,Note Accuracy & Tone,10,1,NULL
+2,2017-2018,Mallet Etude,Rhythmic Accuracy,10,1,NULL
+2,2017-2018,Mallet Etude,"Musicality, Tempo & Style",20,1,NULL
+2,2017-2018,Reading-Mallet,Note Accuracy & Tone,10,1,NULL
+2,2017-2018,Reading-Mallet,Rhythmic Accuracy,10,1,NULL
+2,2017-2018,Reading-Mallet,"Musicality,Tempo, & Style",10,1,NULL
+2,2017-2018,Reading-Snare,Note Accuracy & Tone,10,1,NULL
+2,2017-2018,Reading-Snare,Rhythmic Accuracy,10,1,NULL
+2,2017-2018,Reading-Snare,"Musicality, Tempo, & Style",10,1,NULL
+2,2017-2018,Sight-Reading,Tone Quality,10,NULL,NULL
+2,2017-2018,Sight-Reading,Note Accuracy,10,NULL,NULL
+2,2017-2018,Sight-Reading,Rhythmic Accuracy,10,NULL,NULL
+2,2017-2018,Sight-Reading,"Musicallity, Tempo & Style",10,NULL,NULL
+2,2017-2018,Snare Etude,Rudimental Accuracy,10,1,NULL
+2,2017-2018,Snare Etude,Rhythmic Accuracy,10,1,NULL
+2,2017-2018,Snare Etude,"Musicality, Tempo & Style",20,1,NULL
+2,2017-2018,Technical Etude,Tone Quality,20,0,0
+2,2017-2018,Technical Etude,Note Accuracy,10,NULL,NULL
+2,2017-2018,Technical Etude,Rhythmic Accuracy,10,NULL,NULL
+2,2017-2018,Technical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+2,2017-2018,Timpani Etude,Tuning Accuracy,10,1,NULL
+2,2017-2018,Timpani Etude,Rhythmic Accuracy,10,1,NULL
+2,2017-2018,Timpani Etude,"Musicality, Tempo, & Style",20,1,NULL
+3,2017-2018,Chromatic Scale,Chromatic Scale,8,1,NULL
+3,2017-2018,Chromatic Scale,Chromatic Scale,15,NULL,NULL
+3,2017-2018,Lyrical Etude,Tone Quality,20,NULL,NULL
+3,2017-2018,Lyrical Etude,Note Accuracy,10,NULL,NULL
+3,2017-2018,Lyrical Etude,Rhythmic Accuracy,10,NULL,NULL
+3,2017-2018,Lyrical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+3,2017-2018,Major Scales,G,15,NULL,NULL
+3,2017-2018,Major Scales,G,8,1,NULL
+3,2017-2018,Major Scales,C,8,1,NULL
+3,2017-2018,Major Scales,C,15,NULL,NULL
+3,2017-2018,Major Scales,F,8,1,NULL
+3,2017-2018,Major Scales,F,15,NULL,NULL
+3,2017-2018,Major Scales,Bb,8,1,NULL
+3,2017-2018,Major Scales,Bb,15,NULL,NULL
+3,2017-2018,Major Scales,Eb,8,1,NULL
+3,2017-2018,Major Scales,Eb,15,NULL,NULL
+3,2017-2018,Major Scales,Ab,8,1,NULL
+3,2017-2018,Major Scales,Ab,15,NULL,NULL
+3,2017-2018,Major Scales,Db,15,NULL,NULL
+3,2017-2018,Major Scales,Db,8,1,NULL
+3,2017-2018,Major Scales,Gb,8,1,NULL
+3,2017-2018,Major Scales,Gb,15,NULL,NULL
+3,2017-2018,Major Scales,B,8,1,NULL
+3,2017-2018,Major Scales,B,15,NULL,NULL
+3,2017-2018,Major Scales,E,8,1,NULL
+3,2017-2018,Major Scales,E,15,NULL,NULL
+3,2017-2018,Major Scales,A,8,1,NULL
+3,2017-2018,Major Scales,A,15,NULL,NULL
+3,2017-2018,Major Scales,D,15,NULL,NULL
+3,2017-2018,Major Scales,D,8,1,NULL
+3,2017-2018,Mallet Etude,Note Accuracy & Tone,10,1,NULL
+3,2017-2018,Mallet Etude,Rhythmic Accuracy,10,1,NULL
+3,2017-2018,Mallet Etude,"Musicality, Tempo & Style",20,1,NULL
+3,2017-2018,Reading-Mallet,Note Accuracy & Tone,10,1,NULL
+3,2017-2018,Reading-Mallet,Rhythmic Accuracy,10,1,NULL
+3,2017-2018,Reading-Mallet,Musicality & Style,10,1,NULL
+3,2017-2018,Reading-Snare,Note Accuracy & Tone,10,1,NULL
+3,2017-2018,Reading-Snare,Rhythmic Accuracy,10,1,NULL
+3,2017-2018,Reading-Snare,Musicality & Style,10,1,NULL
+3,2017-2018,Sight-Reading,Tone Quality,10,NULL,NULL
+3,2017-2018,Sight-Reading,Note Accuracy,10,NULL,NULL
+3,2017-2018,Sight-Reading,Rhythmic Accuracy,10,NULL,NULL
+3,2017-2018,Sight-Reading,"Musicallity, Tempo & Style",10,NULL,NULL
+3,2017-2018,Snare Etude,Rudimental Accuracy,10,1,NULL
+3,2017-2018,Snare Etude,Rhythmic Accuracy,10,1,NULL
+3,2017-2018,Snare Etude,"Musicality, Tempo & Style",20,1,NULL
+3,2017-2018,Technical Etude,Tone Quality,20,NULL,NULL
+3,2017-2018,Technical Etude,Note Accuracy,10,NULL,NULL
+3,2017-2018,Technical Etude,Rhythmic Accuracy,10,NULL,NULL
+3,2017-2018,Technical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+3,2017-2018,Timpani Etude,Tuning Accuracy,10,1,NULL
+3,2017-2018,Timpani Etude,Rhythmic Accuracy,10,1,NULL
+3,2017-2018,Timpani Etude,"Musicality, Tempo, & Style",20,1,NULL
+1,2018-2019,Chromatic Scale,Chromatic Scale,8,1,NULL
+1,2018-2019,Chromatic Scale,Chromatic Scale,15,NULL,NULL
+1,2018-2019,Lyrical Etude,Tone Quality,20,NULL,NULL
+1,2018-2019,Lyrical Etude,Note Accuracy,10,NULL,NULL
+1,2018-2019,Lyrical Etude,Rhythmic Accuracy,10,NULL,NULL
+1,2018-2019,Lyrical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+1,2018-2019,Major Scales,G,15,NULL,NULL
+1,2018-2019,Major Scales,G,8,1,NULL
+1,2018-2019,Major Scales,C,8,1,NULL
+1,2018-2019,Major Scales,C,15,NULL,NULL
+1,2018-2019,Major Scales,F,15,NULL,NULL
+1,2018-2019,Major Scales,F,8,1,NULL
+1,2018-2019,Major Scales,Bb,8,1,NULL
+1,2018-2019,Major Scales,Bb,15,NULL,NULL
+1,2018-2019,Major Scales,Eb,15,NULL,NULL
+1,2018-2019,Major Scales,Eb,8,1,NULL
+1,2018-2019,Major Scales,Ab,8,1,NULL
+1,2018-2019,Major Scales,Ab,15,NULL,NULL
+1,2018-2019,Major Scales,Db,15,NULL,NULL
+1,2018-2019,Major Scales,Db,8,1,NULL
+1,2018-2019,Mallet Etude,Note Accuracy & Tone,10,1,NULL
+1,2018-2019,Mallet Etude,Rhythmic Accuracy,10,1,NULL
+1,2018-2019,Mallet Etude,"Musicality, Tempo, & Style",20,1,NULL
+1,2018-2019,Reading-Mallet,Note Accuracy & Tone,10,1,NULL
+1,2018-2019,Reading-Mallet,Rhythmic Accuracy,10,1,NULL
+1,2018-2019,Reading-Mallet,"Musicality, Tempo & Style",10,1,NULL
+1,2018-2019,Reading-Snare,Note Accuracy & Tone,10,1,NULL
+1,2018-2019,Reading-Snare,Rhythmic Accuracy,10,1,NULL
+1,2018-2019,Reading-Snare,"Musicality, Tempo, & Style",10,1,NULL
+1,2018-2019,Sight-Reading,Tone Quality,10,NULL,NULL
+1,2018-2019,Sight-Reading,Note Accuracy,10,NULL,NULL
+1,2018-2019,Sight-Reading,Rhythmic Accuracy,10,NULL,NULL
+1,2018-2019,Sight-Reading,"Musicallity, Tempo & Style",10,NULL,NULL
+1,2018-2019,Snare Etude,Rudimental Accuracy,10,1,NULL
+1,2018-2019,Snare Etude,Rhythmic Accuracy,10,1,NULL
+1,2018-2019,Snare Etude,"Musicality, Tempo, & Style",20,1,NULL
+1,2018-2019,Technical Etude,Tone Quality,20,NULL,NULL
+1,2018-2019,Technical Etude,Note Accuracy,10,NULL,NULL
+1,2018-2019,Technical Etude,Rhythmic Accuracy,10,NULL,NULL
+1,2018-2019,Technical Etude,"Musicality, Tempo & Style",20,NULL,NULL
+1,2018-2019,Timpani Etude,Tuning Accuracy,10,1,NULL
+1,2018-2019,Timpani Etude,Rhythmic Accuracy,10,1,NULL
+1,2018-2019,Timpani Etude,"Musicality, Tempo, & Style",20,1,NULL
+2,2018-2019,Chromatic Scale,Chromatic Scale,8,1,NULL
+2,2018-2019,Chromatic Scale,Chromatic Scale,15,NULL,NULL
+2,2018-2019,Lyrical Etude,Tone Quality,20,0,0
+2,2018-2019,Lyrical Etude,Note Accuracy,10,NULL,NULL
+2,2018-2019,Lyrical Etude,Rhythmic Accuracy,10,NULL,NULL
+2,2018-2019,Lyrical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+2,2018-2019,Major Scales,G,15,NULL,NULL
+2,2018-2019,Major Scales,G,8,1,NULL
+2,2018-2019,Major Scales,C,15,NULL,NULL
+2,2018-2019,Major Scales,C,8,1,NULL
+2,2018-2019,Major Scales,F,8,1,NULL
+2,2018-2019,Major Scales,F,15,NULL,NULL
+2,2018-2019,Major Scales,Bb,15,NULL,NULL
+2,2018-2019,Major Scales,Bb,8,1,NULL
+2,2018-2019,Major Scales,Eb,8,1,NULL
+2,2018-2019,Major Scales,Eb,15,NULL,NULL
+2,2018-2019,Major Scales,Ab,8,1,NULL
+2,2018-2019,Major Scales,Ab,15,NULL,NULL
+2,2018-2019,Major Scales,Db,15,NULL,NULL
+2,2018-2019,Major Scales,Db,8,1,NULL
+2,2018-2019,Major Scales,Gb,8,1,NULL
+2,2018-2019,Major Scales,Gb,15,NULL,NULL
+2,2018-2019,Major Scales,B,15,NULL,NULL
+2,2018-2019,Major Scales,B,8,1,NULL
+2,2018-2019,Major Scales,E,8,1,NULL
+2,2018-2019,Major Scales,E,15,NULL,NULL
+2,2018-2019,Major Scales,A,8,1,NULL
+2,2018-2019,Major Scales,A,15,NULL,NULL
+2,2018-2019,Major Scales,D,15,NULL,NULL
+2,2018-2019,Major Scales,D,8,1,NULL
+2,2018-2019,Mallet Etude,Note Accuracy & Tone,10,1,NULL
+2,2018-2019,Mallet Etude,Rhythmic Accuracy,10,1,NULL
+2,2018-2019,Mallet Etude,"Musicality, Tempo & Style",20,1,NULL
+2,2018-2019,Reading-Mallet,Note Accuracy & Tone,10,1,NULL
+2,2018-2019,Reading-Mallet,Rhythmic Accuracy,10,1,NULL
+2,2018-2019,Reading-Mallet,"Musicality,Tempo, & Style",10,1,NULL
+2,2018-2019,Reading-Snare,Note Accuracy & Tone,10,1,NULL
+2,2018-2019,Reading-Snare,Rhythmic Accuracy,10,1,NULL
+2,2018-2019,Reading-Snare,"Musicality, Tempo, & Style",10,1,NULL
+2,2018-2019,Sight-Reading,Tone Quality,10,NULL,NULL
+2,2018-2019,Sight-Reading,Note Accuracy,10,NULL,NULL
+2,2018-2019,Sight-Reading,Rhythmic Accuracy,10,NULL,NULL
+2,2018-2019,Sight-Reading,"Musicallity, Tempo & Style",10,NULL,NULL
+2,2018-2019,Snare Etude,Rudimental Accuracy,10,1,NULL
+2,2018-2019,Snare Etude,Rhythmic Accuracy,10,1,NULL
+2,2018-2019,Snare Etude,"Musicality, Tempo & Style",20,1,NULL
+2,2018-2019,Technical Etude,Tone Quality,20,0,0
+2,2018-2019,Technical Etude,Note Accuracy,10,NULL,NULL
+2,2018-2019,Technical Etude,Rhythmic Accuracy,10,NULL,NULL
+2,2018-2019,Technical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+2,2018-2019,Timpani Etude,Tuning Accuracy,10,1,NULL
+2,2018-2019,Timpani Etude,Rhythmic Accuracy,10,1,NULL
+2,2018-2019,Timpani Etude,"Musicality, Tempo, & Style",20,1,NULL
+3,2018-2019,Chromatic Scale,Chromatic Scale,8,1,NULL
+3,2018-2019,Chromatic Scale,Chromatic Scale,15,NULL,NULL
+3,2018-2019,Lyrical Etude,Tone Quality,20,NULL,NULL
+3,2018-2019,Lyrical Etude,Note Accuracy,10,NULL,NULL
+3,2018-2019,Lyrical Etude,Rhythmic Accuracy,10,NULL,NULL
+3,2018-2019,Lyrical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+3,2018-2019,Major Scales,G,15,NULL,NULL
+3,2018-2019,Major Scales,G,8,1,NULL
+3,2018-2019,Major Scales,C,8,1,NULL
+3,2018-2019,Major Scales,C,15,NULL,NULL
+3,2018-2019,Major Scales,F,8,1,NULL
+3,2018-2019,Major Scales,F,15,NULL,NULL
+3,2018-2019,Major Scales,Bb,8,1,NULL
+3,2018-2019,Major Scales,Bb,15,NULL,NULL
+3,2018-2019,Major Scales,Eb,8,1,NULL
+3,2018-2019,Major Scales,Eb,15,NULL,NULL
+3,2018-2019,Major Scales,Ab,8,1,NULL
+3,2018-2019,Major Scales,Ab,15,NULL,NULL
+3,2018-2019,Major Scales,Db,15,NULL,NULL
+3,2018-2019,Major Scales,Db,8,1,NULL
+3,2018-2019,Major Scales,Gb,8,1,NULL
+3,2018-2019,Major Scales,Gb,15,NULL,NULL
+3,2018-2019,Major Scales,B,8,1,NULL
+3,2018-2019,Major Scales,B,15,NULL,NULL
+3,2018-2019,Major Scales,E,8,1,NULL
+3,2018-2019,Major Scales,E,15,NULL,NULL
+3,2018-2019,Major Scales,A,8,1,NULL
+3,2018-2019,Major Scales,A,15,NULL,NULL
+3,2018-2019,Major Scales,D,15,NULL,NULL
+3,2018-2019,Major Scales,D,8,1,NULL
+3,2018-2019,Mallet Etude,Note Accuracy & Tone,10,1,NULL
+3,2018-2019,Mallet Etude,Rhythmic Accuracy,10,1,NULL
+3,2018-2019,Mallet Etude,"Musicality, Tempo & Style",20,1,NULL
+3,2018-2019,Reading-Mallet,Note Accuracy & Tone,10,1,NULL
+3,2018-2019,Reading-Mallet,Rhythmic Accuracy,10,1,NULL
+3,2018-2019,Reading-Mallet,Musicality & Style,10,1,NULL
+3,2018-2019,Reading-Snare,Note Accuracy & Tone,10,1,NULL
+3,2018-2019,Reading-Snare,Rhythmic Accuracy,10,1,NULL
+3,2018-2019,Reading-Snare,Musicality & Style,10,1,NULL
+3,2018-2019,Sight-Reading,Tone Quality,10,NULL,NULL
+3,2018-2019,Sight-Reading,Note Accuracy,10,NULL,NULL
+3,2018-2019,Sight-Reading,Rhythmic Accuracy,10,NULL,NULL
+3,2018-2019,Sight-Reading,"Musicallity, Tempo & Style",10,NULL,NULL
+3,2018-2019,Snare Etude,Rudimental Accuracy,10,1,NULL
+3,2018-2019,Snare Etude,Rhythmic Accuracy,10,1,NULL
+3,2018-2019,Snare Etude,"Musicality, Tempo & Style",20,1,NULL
+3,2018-2019,Technical Etude,Tone Quality,20,NULL,NULL
+3,2018-2019,Technical Etude,Note Accuracy,10,NULL,NULL
+3,2018-2019,Technical Etude,Rhythmic Accuracy,10,NULL,NULL
+3,2018-2019,Technical Etude,"Musicallity, Tempo & Style",20,NULL,NULL
+3,2018-2019,Timpani Etude,Tuning Accuracy,10,1,NULL
+3,2018-2019,Timpani Etude,Rhythmic Accuracy,10,1,NULL
+3,2018-2019,Timpani Etude,"Musicality, Tempo, & Style",20,1,NULL
