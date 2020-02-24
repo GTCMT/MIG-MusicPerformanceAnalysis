@@ -52,3 +52,6 @@ Thumbs.db
 # Additional Files or Folders #
 ###############################
 /src/prediction_models/preprocessing/pitch/pYin/exec
+
+# VS Code
+*.idea
