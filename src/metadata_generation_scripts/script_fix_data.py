@@ -9,9 +9,9 @@ from tqdm import tqdm
 
 # specify input directory. this NEEDS to be changed based on the system
 if len(sys.argv) == 1:
-    input_directory = "/media/SSD/FBA/2017-2018"
+    input_directory = "/media/SSD/FBA/2017-2018/concertband"
 else:
-    input_directory = str(sys.argv)
+    input_directory = str(sys.argv[1])
 
 
 list_mp3 = glob(os.path.join(input_directory, "*.mp3"))
