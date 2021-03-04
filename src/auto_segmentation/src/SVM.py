@@ -27,7 +27,7 @@ def newDataClassificationWrite(directory, writeAddress, modelPath, generateDataR
     nonMusTLengths = np.empty([numberOfMusicalExercises])
     fileLength = np.empty([1])
     correctSegFileCount = 0
-    shortestSegOnlyBool = false
+    shortestSegOnlyBool = False
 
     for entry in os.listdir(directory):
         if os.path.isfile(os.path.join(directory, entry)) and entry[-4:] == '.npz':
@@ -80,7 +80,7 @@ def newDataClassificationWrite(directory, writeAddress, modelPath, generateDataR
     # If this is true, the shortest segment removal process alone is implemented for the remaining files
     if correctSegFileCount < 25 or (correctSegFileCount/(correctSegFileCount + flaggedFileList.size +
                                                         secondPassFilesList.size)) < 0.25:
-        shortestSegOnlyBool = true
+        shortestSegOnlyBool = True
 
         flipShortestUntilSegmentCount = numberOfMusicalExercises * 2
 
