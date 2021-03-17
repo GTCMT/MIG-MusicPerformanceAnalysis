@@ -5,13 +5,15 @@ The goal is to automatically locate the timestamps for the beginning and ending 
 
 Use overview:
 
-As a user you will use the main.py script. There is a wrapper function written in main.py that encapsulates two primary functions for one continuous process. This is the easiest way to process new data as the scripts are intended to be primarily used for. This function is called newData() and has the following parameters:
+As a user you will use the main.py script. There is a wrapper function written in main.py that encapsulates two primary functions for one continuous process. This is the easiest way to process new data as the scripts are intended to be primarily used for. This function is called annotateNewData() and has the following parameters:
 
     - audioDirectory: the directory of the raw mp3 files
 
     - writeAddress: the location where the text files should be written to
 
     - modelPath: the path to the model that will be used for the classification SVM
+    
+    - fileList: the array of student ID integers that you would like to run from the directory. If left blank, all files will be run.
 
     - generateDataReport: a boolean that allows user to specify if they would like a dataReport text file to be automatically generated detailing information about the classification process
 
@@ -24,7 +26,7 @@ If you would like to use these steps individually for any particular reason they
 
 1. The writing of numpy feature matrices for each audition file to be written to individual NPZ files
 
-    This is done by calling fileWrite() and the input parameters are as follows:
+    This is done by calling writeFeatureData() and the input parameters are as follows:
     
         - audioDirectory: the directory path in which the audio files are located. The standard organization is that each mp3 file will be enclosed in a folder with that audition number. 
           
@@ -34,12 +36,14 @@ If you would like to use these steps individually for any particular reason they
         - textDirectory: this is the directory of pregenerated text files for annotated data. If this function is processing new data, this parameter should be left blank to default to an empty string.
      
         - writeDirectory: this is the directory to which the npz files will be written to
+        
+        - fileList: the array of student ID integers that you would like to run from the directory. If left blank, all files will be run.
      
         - writeFiles: gives the option to not write the npz files if the function is only being used to learn something about the data set but not continue with the standard process.
      
         - newData: this parameter defaults to true, but if this function is being used with annotated data, then set this to False to indicate that the groundTruth annotation data should be processed and included in the npz file.
 
-  2. The classification of these npz files generated in step one using newDataClassificationWrite() with these input parameters:
+  2. The classification of these npz files generated in step one using classifyFeatureData() with these input parameters:
   
          - directory: the path to the directory of npz files for classification
          

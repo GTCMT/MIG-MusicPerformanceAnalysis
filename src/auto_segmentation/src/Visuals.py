@@ -1,6 +1,6 @@
 import numpy as np
 from sklearn import svm
-from DataParsing import*
+from ProcessInput import*
 import matplotlib.pyplot as plt
 import math
 import time
